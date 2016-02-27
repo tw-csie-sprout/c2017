@@ -1,6 +1,6 @@
 # 課程作業
 
-- 線上繳交測試系統 <http://2015.sprout.csie.org/oj/proset/?class=1>
+- 線上繳交測試系統 <http://sprout.tw/oj/>
 
 ## 每週勾選作業
 
