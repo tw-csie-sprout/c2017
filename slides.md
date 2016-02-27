@@ -5,4 +5,4 @@
 | 課程介紹 | [Intro.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjNzFpNkI5YVdlSG8)      | [Introduction.pdf](https://goo.gl/HGnbE6) |
 | 背景知識 | [Background.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjTVpROVFmVnEtV0E) | [Background.pdf](https://goo.gl/tFkA5x)   |
 | Dev-C++  | [Dev-C++.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjbHd4alFORmJvenc)        | [Dev-C++.pdf](https://goo.gl/mqJXLV)      |
-| 表達式與變數 | [expr.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjYnRJX0NYUjBPdlU) | |
+| 表達式與變數 | [expr.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjYnRJX0NYUjBPdlU) | [expr.pdf](https://drive.google.com/file/d/0Bzxow2VOUeFGeGpyektScnJXQnc/view?usp=sharing)|
