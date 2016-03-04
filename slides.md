@@ -6,3 +6,11 @@
 | 背景知識 | [Background.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjTVpROVFmVnEtV0E) | [Background.pdf](https://goo.gl/tFkA5x)   |
 | Dev-C++  | [Dev-C++.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjbHd4alFORmJvenc)        | [Dev-C++.pdf](https://goo.gl/mqJXLV)      |
 | 表達式與變數 | [expr.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjYnRJX0NYUjBPdlU) | [expr.pdf](https://drive.google.com/file/d/0Bzxow2VOUeFGeGpyektScnJXQnc/view?usp=sharing)|
+
+## 第二週投影片 03/05
+
+| 主題     | 北區投影片         | 竹區投影片                                |
+| ----     | ----               | ----                                      |
+| if-else判斷式 | [if-else.pdf](https://goo.gl/evl4O3)      | |
+| while迴圈 | [while-loop.pdf](https://goo.gl/uvMD3L) | |
+| 一維陣列  | [array.pdf](https://goo.gl/Vf4q2U)        | |
