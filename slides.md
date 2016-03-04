@@ -11,6 +11,6 @@
 
 | 主題     | 北區投影片         | 竹區投影片                                |
 | ----     | ----               | ----                                      |
-| if-else判斷式 | [if-else.pdf](https://goo.gl/evl4O3)      | |
+| if-else判斷式 | [if-else.pdf](https://goo.gl/evl4O3)      | [if-else.pdf](https://github.com/yesray0216/c2016) |
 | while迴圈 | [while-loop.pdf](https://goo.gl/uvMD3L) | [while-loop & array.pdf](https://goo.gl/edZKqg) |
 | 一維陣列  | [array.pdf](https://goo.gl/Vf4q2U)        | |
