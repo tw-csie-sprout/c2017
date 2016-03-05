@@ -14,3 +14,4 @@
 | if-else判斷式 | [if-else.pdf](https://goo.gl/evl4O3)      | [if-else.pdf](https://goo.gl/hWsC4m) |
 | while迴圈 | [while-loop.pdf](https://goo.gl/uvMD3L) | [while-loop & array.pdf](https://goo.gl/edZKqg) |
 | 一維陣列  | [array.pdf](https://goo.gl/Vf4q2U)        | |
+| week01 檢討 | [week01-revisit.pdf](https://drive.google.com/drive/folders/0B_Qu9g2Wq4PbTVlzNGZ3WVg2bVk) | |
