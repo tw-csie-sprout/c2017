@@ -13,6 +13,6 @@
 ## 大作業 1 - bitmap
 - [作業檔案](https://drive.google.com/open?id=0B_Qu9g2Wq4PbU2VtNjJJYVZoX2s)
 - [bitmap投影片0 - 介紹](https://drive.google.com/open?id=0B_Qu9g2Wq4PbZjFCNDAxOEtOems)
-- [bitmap投影片1 - bmp原理](https://drive.google.com/open?id=0B_Qu9g2Wq4PbZjFCNDAxOEtOems)
+- [bitmap投影片1 - bmp原理](https://drive.google.com/open?id=0B9UPSRcSqHjpNnVLdWVSUGpTQ1k)
 - bitmap投影片2 - 誤差擴散
 - [bitmap投影片3 - 自由創作](https://drive.google.com/open?id=0B_Qu9g2Wq4PbMElDMXYyNnFDQ0U)
