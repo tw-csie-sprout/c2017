@@ -16,7 +16,7 @@
 | 一維陣列  | [array.pdf](https://goo.gl/Vf4q2U)        | |
 | week01 檢討 | [week01-revisit.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjZWtYOGVrU0dWTWs) | |
 
-## 第二週投影片 03/12
+## 第三週投影片 03/12
 
 | 主題     | 北區投影片         | 竹區投影片                                |
 | ----     | ----               | ----                                      |
