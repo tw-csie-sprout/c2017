@@ -20,4 +20,4 @@
 
 | 主題     | 北區投影片         | 竹區投影片                                |
 | ----     | ----               | ----                                      |
-| 迴圈(for)、控制流程(break, continue)、多維陣列、字元 |   | [for-loop & multi-array & char.pdf](https://goo.gl/gYgv7E) |
+| 迴圈(for)、控制流程(break, continue)、多維陣列、字元 | [for-loop & multi-array & char.pdf](https://drive.google.com/file/d/0B13ab_fQ7QbjYlpNRmpmQm5oeGc/view?usp=sharing) | [for-loop & multi-array & char.pdf](https://goo.gl/gYgv7E) |
