@@ -15,3 +15,9 @@
 | while迴圈 | [while-loop.pdf](https://goo.gl/uvMD3L) | [while-loop & array.pdf](https://goo.gl/edZKqg) |
 | 一維陣列  | [array.pdf](https://goo.gl/Vf4q2U)        | |
 | week01 檢討 | [week01-revisit.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjZWtYOGVrU0dWTWs) | |
+
+## 第三週投影片 03/12
+
+| 主題     | 北區投影片         | 竹區投影片                                |
+| ----     | ----               | ----                                      |
+| 迴圈(for)、控制流程(break, continue)、多維陣列、字元 | [for-loop & multi-array & char.pdf](https://drive.google.com/file/d/0B13ab_fQ7QbjYlpNRmpmQm5oeGc/view?usp=sharing) | [for-loop & multi-array & char.pdf](https://goo.gl/gYgv7E) |
