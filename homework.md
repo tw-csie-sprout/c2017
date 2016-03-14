@@ -16,3 +16,54 @@
 - [bitmap投影片1 - bmp原理](https://drive.google.com/open?id=0B9UPSRcSqHjpNnVLdWVSUGpTQ1k)
 - bitmap投影片2 - 誤差擴散
 - [bitmap投影片3 - 自由創作](https://drive.google.com/open?id=0B_Qu9g2Wq4PbMElDMXYyNnFDQ0U)
+
+### 繳交方式
+- 請在**04 / 09 (六) 23:59**前上傳至 [sprout LMS 作業上傳系統](http://lang2016.sprout.tw/)
+- 請把所有檔案以**zip**壓縮，再命名為`project01`，詳細格式如下
+- 裡面有兩個資料夾分別是1, 2，1底下放error diffusion作業，2底下放你自由創作的的作業。
+- `readme.txt` 請簡要說明你這個部份做了什麼，或者你那些沒做，方便評分。
+- `mountain_in.bmp` 你可以自由更改名稱或圖片大小，但是要記得一併更改`bmp_hdlr.h`
+```
+project01.zip
+├── 1
+│   ├── bmp_error_diffuse.cpp
+│   ├── bmp_gray_scale.cpp
+│   ├── bmp_thresholding.cpp
+│   ├── readme.txt // [簡要說明你這個部份做了什麼]
+│   └── bmp_hdlr.h
+└── 2
+    ├── bmp_bonus.cpp // [「自由發揮」部份的code]
+    ├── mountain_in.bmp // [輸入圖片，這個檔名可以不同]
+    ├── readme.txt // [簡要說明你這個部份做了什麼]
+    └── bmp_hdlr.h
+```
+
+### 如何執行
+在你寫的code的同個資料夾下，必須要有`bmp_hdlr.h`與`mountain_in.bmp`，
+然後你寫的code大致向下面這樣，編譯並執行後便會輸出檔案`mountain_out.bmp`
+```c++
+#include <iostream>
+#include "bmp_hdlr.h"
+
+int canvas_r[height][width], canvas_g[height][width], canvas_b[height][width];
+
+int main() 
+{
+  // 看你想做什麼～
+}
+```
+### 如何使用自己的圖片
+**警告：使用自己的圖片非常麻煩！想要用自己的圖，就要做好處理一堆麻煩的準備！**
+如果你很想在第二部份自由創作使用自己的圖片的話，請把你的圖片拿去[這個網站](http://image.online-convert.com/convert-to-bmp)
+轉成bmp檔，再編輯`bmp_hdlr.h`中的參數：
+- `width`: 寬 
+- `height`: 高
+- `bmp_in`: 輸入檔案
+- `bmp_out`: 輸出檔案
+```
+// Here you can adjust value of width and height
+static const int width = 960, height = 639; // should use 'size_t' though
+// Here you can set filename of input image and output image
+static const char *bmp_out = "mountain_out.bmp", *bmp_in = "mountain_in.bmp";
+
+```
