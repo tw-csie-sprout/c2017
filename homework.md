@@ -19,7 +19,7 @@
 - [bitmap投影片3 - 自由創作](https://drive.google.com/open?id=0B_Qu9g2Wq4PbMElDMXYyNnFDQ0U)
 
 ### 繳交方式
-- 請在**04 / 09 (六) 23:59**前上傳至 [sprout LMS 作業上傳系統](http://lang2016.sprout.tw/)
+- 請在**04 / 02 (六) 23:59**前上傳至 [sprout LMS 作業上傳系統](http://lang2016.sprout.tw/)
 - 請把所有檔案以**zip**壓縮，再命名為`project01`，詳細格式如下
 - 裡面有兩個資料夾分別是1, 2，1底下放error diffusion作業，2底下放你自由創作的的作業。
 - `readme.txt` 請簡要說明你這個部份做了什麼，或者你那些沒做，方便評分。
