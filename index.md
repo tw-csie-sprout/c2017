@@ -34,7 +34,7 @@
 | 0227 | 01   |          | IDE、課程/judge介紹、基礎I/O、變數、運算                             |
 | 0305 | 02   |          | 條件式(if-else, else if)、迴圈(while, do-while)、一維陣列                                   |
 | 0312 | 03   | 大作業1  | 迴圈(for)、控制流程(break, continue)、多維陣列、字元、大作業說明                              |
-| 0319 | 04   | 大作業2  | 函數呼叫、字串(C-style, 常用函式)、資料型態與轉型(float, double)、switch、Coding-style |
+| 0319 | 04   | 大作業2  | 函數呼叫、字串(C-style, 常用函式)、資料型態與轉型(float, double)、亂數、Coding-style |
 | 0326 | 05   | 大作業3  | 編寫函數、scope、 變數生命週期                                    |
 | 0402 | 06   | 大作業4  | 清明節放假囉～                                                 |
 | 0409 | 07   | Deadline | 遞迴(費氏數列)、 修飾子(const, long, short)、二分搜尋、課程回顧                                  |
