@@ -26,4 +26,4 @@
 
 | 主題     | 北區投影片         | 竹區投影片                                |
 | ----     | ----               | ----                                      |
-|  函數呼叫、字串(C-style, 常用函式)、資料型態與轉型(float, double)、亂數、Coding-style | [week1, 2 hw review](https://goo.gl/a6kVM3) |
+|  函數呼叫、字串、資料型態與轉型、Coding-style | [func_call & string & type](http://www.csie.ntu.edu.tw/~b04902031/sprout_0319.html#1)、[week1, 2 hw review](https://goo.gl/a6kVM3) |
