@@ -29,4 +29,4 @@
 | 函數呼叫、字串、資料型態與轉型 | [func_call & string & type](http://www.csie.ntu.edu.tw/~b04902031/sprout_0319.html#1) | [call-function & rand & cstring.pdf](https://goo.gl/XZC4xm)    <br>[type2](https://drive.google.com/open?id=0Bzxow2VOUeFGZGo3TjNDNTA1TE0) |
 | Coding style參考資料           | [Coding Style](http://goo.gl/R1aeIL)                                                  | 同北區                                                      |
 | 作業檢討(week1, 2)             | [week1, 2 hw review](https://goo.gl/a6kVM3)                                           |                                                             |
-| 大作業說明                     |                                                                                       |                                                             |
+| 大作業說明                     |請參閱「課程作業」頁面         |                                                                                   |
