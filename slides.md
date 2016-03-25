@@ -30,3 +30,9 @@
 | Coding style參考資料           | [Coding Style](http://goo.gl/R1aeIL)                                                  | 同北區                                                      |
 | 作業檢討(week1, 2)             | [week1, 2 hw review](https://goo.gl/a6kVM3)                                           |                                                             |
 | 大作業說明                     |請參閱「課程作業」頁面         |                                                                                   |
+## 第五週投影片 03/26
+
+| 主題                           | 北區投影片                                                                            | 竹區投影片                                                  |
+| ----                           | ----                                                                                  | ----                                                        |
+| 函數介紹 | [func.pdf](https://goo.gl/uuq0nm) |                                                      |
+| 參數傳遞與變數生命週期           | [argu-pass-and-scope](https://goo.gl/d1v3aY)                                                  |                                                       |
