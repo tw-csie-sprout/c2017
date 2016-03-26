@@ -11,6 +11,7 @@
 | 第二週 0305 | &nbsp;   | [294-我愛零分](http://sprout.tw/oj/pro/294/)                                            | [295-三角形判斷](http://sprout.tw/oj/pro/295/)、[296-多運動有益身心健康](http://sprout.tw/oj/pro/296/)、[298-計算成績](http://sprout.tw/oj/pro/298/) | [300-遊蕩](http://sprout.tw/oj/pro/300/)       |
 | 第三週 0312 | &nbsp;   |                                                                                         | [311-Go!](http://sprout.tw/oj/pro/311/)、[325-植樹的法則(死限延長)](http://sprout.tw/oj/pro/325/)                                                              | [321-無限期支持資電館開門](http://sprout.tw/oj/pro/321/) |
 | 第四週 0319 | &nbsp;   | [332-單字還原(北區)](http://sprout.tw/oj/pro/332/)                                            | [329-大雄的打字機](http://sprout.tw/oj/pro/329/)、[331-告白密文](http://sprout.tw/oj/pro/331/)                                                       | [328-計算機](http://sprout.tw/oj/pro/328/)     |
+| 第五週 0326 | &nbsp;   | [226-成績統計(北區)](http://sprout.tw/oj/pro/226/)                                            | [344-拯救地球](http://sprout.tw/oj/pro/344/)、[345-A.伊布的邀請(函數版)](http://sprout.tw/oj/pro/345/)                                                       | &nbsp;     |
 
 ## 大作業 1 - bitmap
 - [作業檔案](https://drive.google.com/open?id=0B_Qu9g2Wq4PbU2VtNjJJYVZoX2s)
