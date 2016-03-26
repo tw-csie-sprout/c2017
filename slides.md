@@ -34,5 +34,5 @@
 
 | 主題                           | 北區投影片                                                                            | 竹區投影片                                                  |
 | ----                           | ----                                                                                  | ----                                                        |
-| 函數介紹 | [func.pdf](https://goo.gl/uuq0nm) |                                                      |
-| 參數傳遞與變數生命週期           | [argu-pass-and-scope](https://goo.gl/d1v3aY)                                                  |                                                       |
+| 函數介紹 | [func.pdf](https://goo.gl/uuq0nm) | [func.pdf](https://goo.gl/IXyzDr)                                                      |
+| 參數傳遞與變數生命週期           | [argu-pass-and-scope](https://goo.gl/d1v3aY)                                                  | [scope](https://drive.google.com/file/d/0B9UPSRcSqHjpVEtFYy1DVGttYnM/view?usp=sharing)|                                                       |
