@@ -36,6 +36,7 @@
 | ----                           | ----                                                                                  | ----                                                        |
 | 函數介紹 | [func.pdf](https://goo.gl/uuq0nm) | [func.pdf](https://goo.gl/IXyzDr)                                                      |
 | 參數傳遞與變數生命週期           | [argu-pass-and-scope](https://goo.gl/d1v3aY)                                                  | [scope](https://drive.google.com/file/d/0B9UPSRcSqHjpVEtFYy1DVGttYnM/view?usp=sharing)|                                                       |
+| 作業檢討(week 3)               | [week3 hw review] (https://goo.gl/ysOgMJ)|        |
 
 ## 第七週投影片 04/09
 
