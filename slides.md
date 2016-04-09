@@ -24,23 +24,25 @@
 
 ## 第四週投影片 03/19
 
-| 主題                           | 北區投影片                                                                            | 竹區投影片                                                  |
-| ----                           | ----                                                                                  | ----                                                        |
+| 主題                           | 北區投影片                                                                            | 竹區投影片                                                                                                                                |
+| ----                           | ----                                                                                  | ----                                                                                                                                      |
 | 函數呼叫、字串、資料型態與轉型 | [func_call & string & type](http://www.csie.ntu.edu.tw/~b04902031/sprout_0319.html#1) | [call-function & rand & cstring.pdf](https://goo.gl/XZC4xm)    <br>[type2](https://drive.google.com/open?id=0Bzxow2VOUeFGZGo3TjNDNTA1TE0) |
-| Coding style參考資料           | [Coding Style](http://goo.gl/R1aeIL)                                                  | 同北區                                                      |
-| 作業檢討(week1, 2)             | [week1, 2 hw review](https://goo.gl/a6kVM3)                                           |                                                             |
-| 大作業說明                     |請參閱「課程作業」頁面         |                                                                                   |
+| Coding style參考資料           | [Coding Style](http://goo.gl/R1aeIL)                                                  | 同北區                                                                                                                                    |
+| 作業檢討(week1, 2)             | [week1, 2 hw review](https://goo.gl/a6kVM3)                                           |                                                                                                                                           |
+| 大作業說明                     | 請參閱「課程作業」頁面                                                                |                                                                                                                                           |
 ## 第五週投影片 03/26
 
-| 主題                           | 北區投影片                                                                            | 竹區投影片                                                  |
-| ----                           | ----                                                                                  | ----                                                        |
-| 函數介紹 | [func.pdf](https://goo.gl/uuq0nm) | [func.pdf](https://goo.gl/IXyzDr)                                                      |
-| 參數傳遞與變數生命週期           | [argu-pass-and-scope](https://goo.gl/d1v3aY)                                                  | [scope](https://drive.google.com/file/d/0B9UPSRcSqHjpVEtFYy1DVGttYnM/view?usp=sharing)|                                                       |
-| 作業檢討(week 3)               |   [week3 hw review](https://goo.gl/ysOgMJ)   |        |
+| 主題                   | 北區投影片                                   | 竹區投影片                                                                             |
+| ----                   | ----                                         | ----                                                                                   |
+| 函數介紹               | [func.pdf](https://goo.gl/uuq0nm)            | [func.pdf](https://goo.gl/IXyzDr)                                                      |
+| 參數傳遞與變數生命週期 | [argu-pass-and-scope](https://goo.gl/d1v3aY) | [scope](https://drive.google.com/file/d/0B9UPSRcSqHjpVEtFYy1DVGttYnM/view?usp=sharing) |  |
+| 作業檢討(week 3)       | [week3 hw review](https://goo.gl/ysOgMJ)     |                                                                                        |
 ## 第七週投影片 04/09
 
-| 主題                           | 北區投影片                                                                            | 竹區投影片                                                  |
-| ----                           | ----                                                                                  | ----                                                        |
-| 遞迴                           | [recursion.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjTDFxTC15M1VMQU0)        | [recursion.pdf](https://goo.gl/uyZacw)                                                            |
-| const 修飾子                   | [const.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjY1BGOTBsSnVha1k)            | [qualifier.pdf](https://goo.gl/Bx2obT)                                                            |
-| 作業檢討(week 4, 5)               |   [week4, 5 hw review](https://goo.gl/CJPU3D)   |        |
+| 主題                | 北區投影片                                                                     | 竹區投影片                             |
+| ----                | ----                                                                           | ----                                   |
+| 遞迴                | [recursion.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjTDFxTC15M1VMQU0) | [recursion.pdf](https://goo.gl/uyZacw) |
+| const 修飾子        | [const.pdf](https://drive.google.com/open?id=0B13ab_fQ7QbjY1BGOTBsSnVha1k)     | [qualifier.pdf](https://goo.gl/Bx2obT) |
+| 課程回顧            |                                                                                | [review](https://goo.gl/K5cX0p)        |
+| 作業檢討(week 4, 5) | [week4, 5 hw review](https://goo.gl/CJPU3D)                                    |                                        |
+| 作業檢討(bonus)     |                                                                                | [bonus review](https://goo.gl/iK9Qox)  |
