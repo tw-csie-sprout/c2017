@@ -46,3 +46,12 @@
 | 課程回顧            |                                                                                | [review](https://goo.gl/K5cX0p)        |
 | 作業檢討(week 4, 5) | [week4, 5 hw review](https://goo.gl/CJPU3D)                                    |                                        |
 | 作業檢討(bonus)     |                                                                                | [bonus review](https://goo.gl/iK9Qox)  |
+
+## 第十週投影片 04/30
+
+| 主題              | 北區投影片 | 竹區投影片                               |
+| --------------- | ----- | ----------------------------------- |
+| io\|f\|s stream |       | [stream.pdf](https://goo.gl/KpXhyc) |
+| string          |       |                                     |
+| random          |       |                                     |
+| struct          |       | [struct.pdf](https://goo.gl/3w0lpw) |
