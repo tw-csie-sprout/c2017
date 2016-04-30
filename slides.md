@@ -49,9 +49,9 @@
 
 ## 第十週投影片 04/30
 
-| 主題              | 北區投影片 | 竹區投影片                               |
-| --------------- | ----- | ----------------------------------- |
-| io\|f\|s stream |       | [stream.pdf](https://goo.gl/KpXhyc) |
-| string          |       |                                     |
-| random          |       |                                     |
-| struct          |       | [struct.pdf](https://goo.gl/3w0lpw) |
+| 主題        | 北區投影片 | 竹區投影片                          |
+| ----------- | -----      | ----------------------------------- |
+| iofs stream |            | [stream.pdf](https://goo.gl/KpXhyc) |
+| string      |            |                                     |
+| random      |            |                                     |
+| struct      |            | [struct.pdf](https://goo.gl/3w0lpw) |
