@@ -52,6 +52,6 @@
 | 主題        | 北區投影片 | 竹區投影片                          |
 | ----------- | -----      | ----------------------------------- |
 | iofs stream |            | [stream.pdf](https://goo.gl/KpXhyc) |
-| string      |            |                                     |
-| random      |            |                                     |
+| string      |            | [string.pdf](https://drive.google.com/open?id=0Bzxow2VOUeFGOE1vWnVqVWNfcXM)|
+| random      |            | [random.pdf](https://drive.google.com/open?id=0Bzxow2VOUeFGaDJMUXhXOGFub0U) |
 | struct      |            | [struct.pdf](https://goo.gl/3w0lpw) |
