@@ -49,10 +49,11 @@
 
 ## 第十週投影片 04/30
 
-| 主題         | 北區投影片 | 竹區投影片                                                                  |
-| -----------  | -----      | -----------------------------------                                         |
-| iofs stream  |            | [stream.pdf](https://goo.gl/KpXhyc)                                         |
-| string       |            | [string.pdf](https://drive.google.com/open?id=0Bzxow2VOUeFGOE1vWnVqVWNfcXM) |
-| random       |            | [random.pdf](https://drive.google.com/open?id=0Bzxow2VOUeFGaDJMUXhXOGFub0U) |
-| struct       |            | [struct.pdf](https://goo.gl/3w0lpw)                                         |
-| 大作業二test |            | [test.pdf](https://goo.gl/5UJHjY)                                           |
+| 主題           | 北區投影片 | 竹區投影片                                                                          |
+| -----------    | -----      | -----------------------------------                                                 |
+| iofs stream    |            | [stream.pdf](https://goo.gl/KpXhyc)                                                 |
+| string         |            | [string.pdf](https://drive.google.com/open?id=0Bzxow2VOUeFGOE1vWnVqVWNfcXM)         |
+| random         |            | [random.pdf](https://drive.google.com/open?id=0Bzxow2VOUeFGaDJMUXhXOGFub0U)         |
+| struct         |            | [struct.pdf](https://goo.gl/3w0lpw)                                                 |
+| 大作業二test   |            | [test.pdf](https://goo.gl/5UJHjY)                                                   |
+| midterm review | [midterm.pdf](https://drive.google.com/file/d/0B13ab_fQ7QbjRzZzRUIwcTZOOUE/view?usp=sharing) |           |
