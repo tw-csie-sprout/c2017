@@ -58,3 +58,9 @@
 | 大作業二test             |            | [test.pdf](https://goo.gl/5UJHjY)                                                   |
 | stream + random + struct | [stream, random & struct.pdf](https://drive.google.com/file/d/0B153He1E1uxMTnhmTFUyLTgtR3M/view) |           |
 | midterm review           | [midterm.pdf](https://drive.google.com/file/d/0B13ab_fQ7QbjRzZzRUIwcTZOOUE/view?usp=sharing)     |           |
+
+##第十一週投影片 03/05
+
+| 主題          | 北區投影片                                                                          | 竹區投影片                                      |
+| ----          | ----                                                                                | ----                                            |
+| Sorting & Binary Search | [sort_binary_search.pdf](http://slides.com/austinlaurice/deck)                                                |        |     
