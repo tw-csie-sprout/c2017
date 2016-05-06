@@ -14,6 +14,7 @@
 | 第五週 0326 | &nbsp;   | [226-成績統計(北區)](http://sprout.tw/oj/pro/226/)                                      | [344-拯救地球](http://sprout.tw/oj/pro/344/)、[345-A.伊布的邀請(函數版)](http://sprout.tw/oj/pro/345/)                                               | &nbsp;                                                   |
 | 第七週 0409 | &nbsp;   |                                                                                         | [346-大雄的最大公因數](http://sprout.tw/oj/pro/346/)                                                                                                 | &nbsp;                                                   |
 | 第十週 0430 | &nbsp;   |                                                                                         | [235-成績交換](http://sprout.tw/oj/pro/235/)、[359-還我臭臭泥](http://sprout.tw/oj/pro/359/)、[366-電話銷售員](http://sprout.tw/oj/pro/366/)         | &nbsp;                                                   |
+|第十一週 0507 | [369-書瑾與他的泡泡們](http://sprout.tw/oj/pro/369/)  |    &nbsp;                                                                                     |         | &nbsp;                                                   |
 
 ## 大作業 1 - bitmap
 - [作業檔案](https://drive.google.com/open?id=0B_Qu9g2Wq4PbU2VtNjJJYVZoX2s)
