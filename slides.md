@@ -63,5 +63,5 @@
 
 | 主題          | 北區投影片                                                                          | 竹區投影片                                      |
 | ----          | ----                                                                                | ----                                            |
-| Sorting & Binary Search | [sort_binary_search](http://slides.com/austinlaurice/deck)                |                     | 
+| Sorting & Binary Search | [sort_binary_search](http://slides.com/austinlaurice/deck)                | [bs.pdf](https://drive.google.com/file/d/0B1Mazb4gSIKhclB1dlBadUVsODA/view)                    | 
 | Sort                   |                                | [sort.pdf](https://goo.gl/cMXF18)                                |
