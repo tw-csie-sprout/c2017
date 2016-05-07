@@ -61,7 +61,6 @@
 
 ##第十一週投影片 05/07
 
-| 主題          | 北區投影片                                                                          | 竹區投影片                                      |
-| ----          | ----                                                                                | ----                                            |
-| Sorting & Binary Search | [sort_binary_search](http://slides.com/austinlaurice/deck)                | [bs.pdf](https://drive.google.com/file/d/0B1Mazb4gSIKhclB1dlBadUVsODA/view)                    | 
-| Sort                   |                                | [sort.pdf](https://goo.gl/cMXF18)                                |
+| 主題                      | 北區投影片                                    | 竹區投影片                                    |
+| ----------------------- | ---------------------------------------- | ---------------------------------------- |
+| Sorting & Binary Search | [sort_binary_search](http://slides.com/austinlaurice/deck) | [sort.pdf](https://goo.gl/cMXF18)  [bs.pdf](https://drive.google.com/file/d/0B1Mazb4gSIKhclB1dlBadUVsODA/view) |
