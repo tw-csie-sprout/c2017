@@ -57,3 +57,9 @@
 | struct         |            | [struct.pdf](https://goo.gl/3w0lpw)                                                 |
 | 大作業二test   |            | [test.pdf](https://goo.gl/5UJHjY)                                                   |
 | midterm review | [midterm.pdf](https://drive.google.com/file/d/0B13ab_fQ7QbjRzZzRUIwcTZOOUE/view?usp=sharing) |           |
+
+## 第十一週投影片 05/07
+
+| 主題              | 北區投影片 | 竹區投影片                                                                          |
+| -----------       | -----      | -----------------------------------                                                 |
+| 大作業二overview  | [opencv.pdf](https://drive.google.com/file/d/0B13ab_fQ7QbjMlc0V2RwOGlmdEk/view?usp=sharing) |    |
