@@ -65,3 +65,9 @@
 | ----------------------- | ---------------------------------------- | ---------------------------------------- |
 | Sorting & Binary Search | [sort_binary_search](http://slides.com/austinlaurice/deck) | [sort.pdf](https://goo.gl/cMXF18)    [bs.pdf](https://drive.google.com/file/d/0B1Mazb4gSIKhclB1dlBadUVsODA/view) |
 | 大作業二overview  | [opencv.pdf](https://drive.google.com/file/d/0B13ab_fQ7QbjMlc0V2RwOGlmdEk/view?usp=sharing) |    |
+
+## 第十二週投影片 05/14
+
+| 主題                      | 北區投影片                                    | 竹區投影片                                    |
+| ----------------------- | ---------------------------------------- | ---------------------------------------- |
+| Pointer & Function & Recursive |  | [pointer&function&recursive](https://goo.gl/4AgtJM) |   
