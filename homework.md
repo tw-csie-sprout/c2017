@@ -74,3 +74,53 @@ static const int width = 960, height = 639; // should use 'size_t' though
 static const char *bmp_out = "mountain_out.bmp", *bmp_in = "mountain_in.bmp";
 
 ```
+
+## 大作業 2 - OpenCV
+- [作業檔案](https://drive.google.com/file/d/0B13ab_fQ7QbjbmlJaU1VWlo3MTA/view)
+- [opencv投影片0 - 介紹](https://drive.google.com/open?id=0B13ab_fQ7QbjX1BaYkdFZ2Uwc2c)
+- [opencv投影片1 - homework01 高斯模糊](https://drive.google.com/open?id=0B13ab_fQ7QbjcThBVDlSS0VlSWM)
+- [opencv投影片2 - sprout_opencv.h documentation](https://drive.google.com/open?id=0Bx_2mtOqUyDucGVzQk5oNzFvTUU)
+
+### Homework 01 繳交方式
+- 請在**05 / 28 (六) 23:59**前上傳至 [sprout LMS 作業上傳系統](http://lang2016.sprout.tw/)
+- 請把所有檔案以**zip**壓縮，再命名為`project02`，詳細格式如下
+```
+project02.zip
+├── lena.jpg
+├── sprout_opencv.h
+└── blur.cpp
+```
+
+### 如何編譯/執行
+在你寫的程式碼的同個資料夾下，必須有`sprout_opencv.h`與`lena.jpg`(或是自行設定正確的路徑)。
+
+### 作業內容
+
+實作一支程式 `blur.cpp`，會將 `lena.jpg` 讀入，並用[作業](https://drive.google.com/open?id=0B13ab_fQ7QbjcThBVDlSS0VlSWM)中的五種參數做高斯模糊，輸出 `lena1.jpg` ~ `lena5.jpg` 五個圖檔。
+
+| 檔名      | 參數                           |
+| :----:    | :----------------------------: |
+| lena1.jpg | Kernel size 7 x 7, sigmaX = 1 |
+| lena2.jpg | Kernel size 7 x 7, sigmaX = 2 |
+| lena3.jpg | Kernel size 7 x 7, sigmaX = 3 |
+| lena4.jpg | Kernel size 11 x 11, sigmaX = 5 |
+| lena5.jpg | Kernel size 21 x 21, sigmaX = 5 |
+
+
+### 可能需要用到的函式
+`SproutMatrix loadImage(const std::string &path)`
+
+`SproutMatrix gaussianBlurOnImage(const SproutMatrix &src, int kernelSize, double sigmaX)`
+
+`void displayImageWithTitle(const SproutMatrix &img, const std::string &title)`
+
+`void waitKeyInput()`
+
+`void writeImage(const std::string &path, const SproutMatrix &img)`
+
+詳細參數解釋請參考 `sprout_opencv.h`。
+
+### 常見錯誤
+出現 `[Error] 'LINE_8' is not a member of 'cv'`。
+
+- 請記得將 Dev-C++ 右上角的編譯選項改為 **TDM-GCC x64 Release / OpenCV 3.10**
