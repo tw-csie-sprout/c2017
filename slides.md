@@ -80,3 +80,6 @@
 | 資料結構               | [data-structure](https://goo.gl/5lvuIw)      |                                                                                        |
 | 演算法 Algorithm       | [algorithm](https://goo.gl/tzqIv8)           |                                                                                        |
 | Week 11 作業檢討       | [week11-review](https://goo.gl/epmx3u)       |                                                                                        |
+| 大作業二 OpenCV intro  | [introcv](https://drive.google.com/open?id=0B13ab_fQ7QbjX1BaYkdFZ2Uwc2c) |
+| 大作業二 homework01    | [homework01](https://drive.google.com/open?id=0B13ab_fQ7QbjcThBVDlSS0VlSWM) |
+| 大作業二 sprout_opencv | [sprout_opencv](https://drive.google.com/open?id=0Bx_2mtOqUyDucGVzQk5oNzFvTUU) |
