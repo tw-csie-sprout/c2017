@@ -76,7 +76,7 @@
 
 | 主題                   | 北區投影片                                   | 竹區投影片                                                                             |
 | ----                   | ----                                         | ----                                                                                   |
-| 模板 template 介紹     | [template](https://goo.gl/NRc3Hg)            |  [STL.pdf](https://goo.gl/KduCVy)                                                                                      |
+| 模板 template 介紹     | [template](https://goo.gl/NRc3Hg)            |  [STL.pdf](https://goo.gl/dop7Z1)                                                                                      |
 | 資料結構               | [data-structure](https://goo.gl/5lvuIw)      |                                                                                        |
 | 演算法 Algorithm       | [algorithm](https://goo.gl/tzqIv8)           |                                                                                        |
 | Week 11 作業檢討       | [week11-review](https://goo.gl/epmx3u)       |                                                                                        |
