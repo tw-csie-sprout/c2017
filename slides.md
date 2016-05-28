@@ -87,6 +87,9 @@
 
 ## 第十二週投影片 05/14
 
-| 主題                      | 北區投影片                                    | 竹區投影片                                    |
-| ----------------------- | ---------------------------------------- | ---------------------------------------- |
-| struct | [struct2](https://www.csie.ntu.edu.tw/~b04902031/sprout_0528.html#1) | |   
+| 主題                                 | 北區投影片                                    | 竹區投影片                                    |
+| -----------------------              | ----------------------------------------      | ----------------------------------------      |
+| struct                               | [struct2](https://www.csie.ntu.edu.tw/~b04902031/sprout_0528.html#1) |                        |   
+| 大作業二 Face detection Algorithm    | [vj_algo](https://drive.google.com/open?id=0B13ab_fQ7QbjTXRxOVRMQ09yZ1U)                      |
+| 大作業二 homework02                  | [homework02](https://drive.google.com/open?id=0Bx_2mtOqUyDuQjB0cHZJNWtiXzA)                   |
+| 大作業二 homework03 preview          | [homework03-preview](https://drive.google.com/open?id=0Bx_2mtOqUyDuVXRpVzNuOGRtWUE)           |
