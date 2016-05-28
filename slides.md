@@ -83,3 +83,10 @@
 | 大作業二 OpenCV intro  | [introcv](https://drive.google.com/open?id=0B13ab_fQ7QbjX1BaYkdFZ2Uwc2c) |
 | 大作業二 homework01    | [homework01](https://drive.google.com/open?id=0B13ab_fQ7QbjcThBVDlSS0VlSWM) |
 | 大作業二 sprout_opencv | [sprout_opencv](https://drive.google.com/open?id=0Bx_2mtOqUyDucGVzQk5oNzFvTUU) |
+
+
+## 第十二週投影片 05/14
+
+| 主題                      | 北區投影片                                    | 竹區投影片                                    |
+| ----------------------- | ---------------------------------------- | ---------------------------------------- |
+| struct | [struct2](https://www.csie.ntu.edu.tw/~b04902031/sprout_0528.html#1) | |   
