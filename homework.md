@@ -77,13 +77,16 @@ static const char *bmp_out = "mountain_out.bmp", *bmp_in = "mountain_in.bmp";
 ```
 
 ## 大作業 2 - OpenCV
-- [作業檔案](https://drive.google.com/file/d/0B13ab_fQ7QbjbmlJaU1VWlo3MTA/view)
+- [作業檔案 521 - 請下載下面的 528 新版](https://drive.google.com/file/d/0B13ab_fQ7QbjbmlJaU1VWlo3MTA/view)
+- [作業檔案 528](https://drive.google.com/open?id=0Bx_2mtOqUyDueXdQbDlTOVhNeHc)
 - [opencv投影片0 - 介紹](https://drive.google.com/open?id=0B13ab_fQ7QbjX1BaYkdFZ2Uwc2c)
 - [opencv投影片1 - homework01 高斯模糊](https://drive.google.com/open?id=0B13ab_fQ7QbjcThBVDlSS0VlSWM)
-- [opencv投影片2 - sprout_opencv.h documentation](https://drive.google.com/open?id=0Bx_2mtOqUyDucGVzQk5oNzFvTUU)
+- [opencv投影片2 - sprout_opencv.h documentation 0.1 RC for 作業檔案 521](https://drive.google.com/open?id=0Bx_2mtOqUyDucGVzQk5oNzFvTUU)
+- [opencv投影片3 - sprout_opencv.h documentation 0.2 RC for 作業檔案 528](https://drive.google.com/open?id=0Bx_2mtOqUyDueEdseGlzbERyV00)
 
 ### Homework 01 繳交方式
-- 請在**05 / 28 (六) 23:59**前上傳至 [sprout LMS 作業上傳系統](http://lang2016.sprout.tw/)
+- 請使用 **作業檔案 521**來完成本作業。
+- 請在**06 / 02 (四) 23:59**前上傳至 [sprout LMS 作業上傳系統](http://lang2016.sprout.tw/)
 - 請把所有檔案以**zip**壓縮，再命名為`project02`，詳細格式如下
 ```
 project02.zip
@@ -118,6 +121,48 @@ project02.zip
 `void waitKeyInput()`
 
 `void writeImage(const std::string &path, const SproutMatrix &img)`
+
+詳細參數解釋請參考 `sprout_opencv.h`。
+
+
+### Homework 02 繳交方式
+- 請使用 **作業檔案 528** 來完成本作業。
+- 請在**06 / 12 (日) 23:59**前上傳至 [sprout LMS 作業上傳系統](http://lang2016.sprout.tw/)
+- 請把所有檔案以**zip**壓縮，再命名為`project02-hw2`，詳細格式如下
+```
+project02-hw2.zip
+├── images
+     └── faces.jpg
+├── sprout_opencv.h
+└── faceblur.cpp
+```
+
+### 如何編譯/執行
+在你寫的程式碼的同個資料夾下，必須有`sprout_opencv.h`與`images 中的 faces.jpg`(或是自行設定正確的路徑)。
+
+### 作業內容
+
+實作一支程式 `faceblur.cpp`，會將 `images 資料夾中的 faces.jpg` 讀入，並依照[作業需求](https://drive.google.com/open?id=0Bx_2mtOqUyDuQjB0cHZJNWtiXzA)將上頭的四張人臉打上模糊化，並使用 `writeImage` 輸出一張`facesblur.jpg`圖檔。
+
+
+### 可能需要用到的函式
+
+`SproutMatrix createNewImage(int rows, int cols)`
+
+`SproutMatrix loadImage(const std::string &path)`
+
+`SproutMatrix drawCircleOnImage(const SproutMatrix &img, const SproutPoint &center, int radius, int R, int G, int B)`
+
+`SproutMatrix gaussianBlurOnImage(const SproutMatrix &src, int kernelSize, double sigmaX)`
+
+`void writeImage(const std::string &path, const SproutMatrix &img)`
+
+`std::vector<SproutRectangle> getFacesFromMatrixWithSize(const SproutMatrix &img, const int smallSize, const int largeSize)`
+
+`int sproutRound(const double value)`
+
+`SproutMatrix copyImageWithMask(const SproutMatrix &base, const SproutMatrix &src, const SproutMatrix &mask)`
+
 
 詳細參數解釋請參考 `sprout_opencv.h`。
 
