@@ -127,7 +127,7 @@ project02.zip
 
 ### Homework 02 繳交方式
 - 請使用 **作業檔案 528** 來完成本作業。
-- 請在**06 / 12 (日) 23:59**前上傳至 [sprout LMS 作業上傳系統](http://lang2016.sprout.tw/)
+- 請在**06 / 10 (五) 23:59**前上傳至 [sprout LMS 作業上傳系統](http://lang2016.sprout.tw/)
 - 請把所有檔案以**zip**壓縮，再命名為`project02-hw2`，詳細格式如下
 ```
 project02-hw2.zip
