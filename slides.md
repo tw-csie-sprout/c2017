@@ -35,7 +35,7 @@
 | 主題                   | 北區投影片                                   | 竹區投影片                                                                             |
 | ----                   | ----                                         | ----                                                                                   |
 | 函數介紹               | [func.pdf](https://goo.gl/uuq0nm)            | [func.pdf](https://goo.gl/IXyzDr)                                                      |
-| 參數傳遞與變數生命週期 | [argu-pass-and-scope](https://goo.gl/d1v3aY) | [scope](https://drive.google.com/file/d/0B9UPSRcSqHjpVEtFYy1DVGttYnM/view?usp=sharing) |  |
+| 參數傳遞與變數生命週期 | [argu-pass-and-scope](https://goo.gl/d1v3aY) | [scope](https://drive.google.com/file/d/0B9UPSRcSqHjpVEtFYy1DVGttYnM/view?usp=sharing) |
 | 作業檢討(week 3)       | [week3 hw review](https://goo.gl/ysOgMJ)     |                                                                                        |
 ## 第七週投影片 04/09
 
@@ -49,47 +49,48 @@
 
 ## 第十週投影片 04/30
 
-| 主題                     | 北區投影片 | 竹區投影片                                                                          |
-| -----------              | -----      | -----------------------------------                                                 |
-| iofs stream              |            | [stream.pdf](https://goo.gl/KpXhyc)                                                 |
-| string                   |            | [string.pdf](https://drive.google.com/open?id=0Bzxow2VOUeFGOE1vWnVqVWNfcXM)         |
-| random                   |            | [random.pdf](https://drive.google.com/open?id=0Bzxow2VOUeFGaDJMUXhXOGFub0U)         |
-| struct                   |            | [struct.pdf](https://goo.gl/3w0lpw)                                                 |
-| 大作業二test             |            | [test.pdf](https://goo.gl/5UJHjY)                                                   |
-| stream + random + struct | [stream, random & struct.pdf](https://drive.google.com/file/d/0B153He1E1uxMTnhmTFUyLTgtR3M/view) |           |
-| midterm review           | [midterm.pdf](https://drive.google.com/file/d/0B13ab_fQ7QbjRzZzRUIwcTZOOUE/view?usp=sharing)     |           |
+| 主題                     | 北區投影片                                                                                       | 竹區投影片                                                                  |
+| -----------              | -----                                                                                            | -----------------------------------                                         |
+| iofs stream              |                                                                                                  | [stream.pdf](https://goo.gl/KpXhyc)                                         |
+| string                   |                                                                                                  | [string.pdf](https://drive.google.com/open?id=0Bzxow2VOUeFGOE1vWnVqVWNfcXM) |
+| random                   |                                                                                                  | [random.pdf](https://drive.google.com/open?id=0Bzxow2VOUeFGaDJMUXhXOGFub0U) |
+| struct                   |                                                                                                  | [struct.pdf](https://goo.gl/3w0lpw)                                         |
+| 大作業二test             |                                                                                                  | [test.pdf](https://goo.gl/5UJHjY)                                           |
+| stream + random + struct | [stream, random & struct.pdf](https://drive.google.com/file/d/0B153He1E1uxMTnhmTFUyLTgtR3M/view) |                                                                             |
+| midterm review           | [midterm.pdf](https://drive.google.com/file/d/0B13ab_fQ7QbjRzZzRUIwcTZOOUE/view?usp=sharing)     |                                                                             |
 
 ## 第十一週投影片 05/07
 
-| 主題                      | 北區投影片                                    | 竹區投影片                                    |
-| ----------------------- | ---------------------------------------- | ---------------------------------------- |
-| Sorting & Binary Search | [sort_binary_search](http://slides.com/austinlaurice/deck) | [sort.pdf](https://goo.gl/cMXF18)    [bs.pdf](https://drive.google.com/file/d/0B1Mazb4gSIKhclB1dlBadUVsODA/view) |
-| 大作業二overview  | [opencv.pdf](https://drive.google.com/file/d/0B13ab_fQ7QbjMlc0V2RwOGlmdEk/view?usp=sharing) |    |
+| 主題                    | 北區投影片                                                                                  | 竹區投影片                                                                                                       |
+| ----------------------- | ----------------------------------------                                                    | ----------------------------------------                                                                         |
+| Sorting & Binary Search | [sort_binary_search](http://slides.com/austinlaurice/deck)                                  | [sort.pdf](https://goo.gl/cMXF18)    [bs.pdf](https://drive.google.com/file/d/0B1Mazb4gSIKhclB1dlBadUVsODA/view) |
+| 大作業二overview        | [opencv.pdf](https://drive.google.com/file/d/0B13ab_fQ7QbjMlc0V2RwOGlmdEk/view?usp=sharing) |                                                                                                                  |
 
 ## 第十二週投影片 05/14
 
-| 主題                      | 北區投影片                                    | 竹區投影片                                    |
-| ----------------------- | ---------------------------------------- | ---------------------------------------- |
-| Pointer & Function & Recursive |  | [pointer&function&recursive](https://goo.gl/4AgtJM) |   
+| 主題                           | 北區投影片                               | 竹區投影片                                          |
+| -----------------------        | ---------------------------------------- | ----------------------------------------            |
+| Pointer & Function & Recursive |                                          | [pointer&function&recursive](https://goo.gl/4AgtJM) |
 
 ## 第十三週投影片 05/21
 
-| 主題                   | 北區投影片                                   | 竹區投影片                                                                             |
-| ----                   | ----                                         | ----                                                                                   |
-| 模板 template 介紹     | [template](https://goo.gl/NRc3Hg)            |  [STL.pdf](https://goo.gl/dop7Z1)                                                                                      |
-| 資料結構               | [data-structure](https://goo.gl/5lvuIw)      |                                                                                        |
-| 演算法 Algorithm       | [algorithm](https://goo.gl/tzqIv8)           |                                                                                        |
-| Week 11 作業檢討       | [week11-review](https://goo.gl/epmx3u)       |                                                                                        |
-| 大作業二 OpenCV intro  | [introcv](https://drive.google.com/open?id=0B13ab_fQ7QbjX1BaYkdFZ2Uwc2c) |
-| 大作業二 homework01    | [homework01](https://drive.google.com/open?id=0B13ab_fQ7QbjcThBVDlSS0VlSWM) |
+| 主題                   | 北區投影片                                                                     | 竹區投影片                       |
+| ----                   | ----                                                                           | ----                             |
+| 模板 template 介紹     | [template](https://goo.gl/NRc3Hg)                                              | [STL.pdf](https://goo.gl/dop7Z1) |
+| 資料結構               | [data-structure](https://goo.gl/5lvuIw)                                        |                                  |
+| 演算法 Algorithm       | [algorithm](https://goo.gl/tzqIv8)                                             |                                  |
+| Week 11 作業檢討       | [week11-review](https://goo.gl/epmx3u)                                         |                                  |
+| 大作業二 OpenCV intro  | [introcv](https://drive.google.com/open?id=0B13ab_fQ7QbjX1BaYkdFZ2Uwc2c)       |
+| 大作業二 homework01    | [homework01](https://drive.google.com/open?id=0B13ab_fQ7QbjcThBVDlSS0VlSWM)    |
 | 大作業二 sprout_opencv | [sprout_opencv](https://drive.google.com/open?id=0Bx_2mtOqUyDucGVzQk5oNzFvTUU) |
 
 
 ## 第十二週投影片 05/14
 
-| 主題                                 | 北區投影片                                    | 竹區投影片                                    |
-| -----------------------              | ----------------------------------------      | ----------------------------------------      |
-| struct                               | [struct2](https://www.csie.ntu.edu.tw/~b04902031/sprout_0528.html#1) |                        |   
-| 大作業二 Face detection Algorithm    | [vj_algo](https://drive.google.com/open?id=0B13ab_fQ7QbjTXRxOVRMQ09yZ1U)                      |
-| 大作業二 homework02                  | [homework02](https://drive.google.com/open?id=0Bx_2mtOqUyDuQjB0cHZJNWtiXzA)                   |
-| 大作業二 homework03 preview          | [homework03-preview](https://drive.google.com/open?id=0Bx_2mtOqUyDuVXRpVzNuOGRtWUE)           |
+| 主題                              | 北區投影片                                                                            | 竹區投影片                               |
+| -----------------------           | ----------------------------------------                                              | ---------------------------------------- |
+| struct                            | [struct2](https://www.csie.ntu.edu.tw/~b04902031/sprout_0528.html#1)                  |                                          |
+| 大作業二 Face detection Algorithm | [vj_algo](https://drive.google.com/open?id=0B13ab_fQ7QbjTXRxOVRMQ09yZ1U)              |
+| 大作業二 homework02               | [homework02](https://drive.google.com/open?id=0Bx_2mtOqUyDuQjB0cHZJNWtiXzA)           |
+| 大作業二 homework03 preview       | [homework03-preview](https://drive.google.com/open?id=0Bx_2mtOqUyDuVXRpVzNuOGRtWUE)   |
+| 大作業二 sprout_opencv 0.2 RC     | [sprout_opencv_0.2_RC](https://drive.google.com/open?id=0Bx_2mtOqUyDueEdseGlzbERyV00) |
