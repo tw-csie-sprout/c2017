@@ -51,7 +51,7 @@
 | 0514 | 12   |                  | 指標、 傳遞指標給函數、遞迴                                              |
 | 0521 | 13   | 大作業二1        | STL (資料結構, vector, list, queue, stack)、sort(cmp)、next\_permutation |
 | 0528 | 14   | 大作業二2        | struct(\*ptr)、new/delete、linked-list                                   |
-| 0604 | 15   | 大作業二3        | Cmd compile、模組化(refactor)、header file                               |
+| 0604 | 15   | 大作業二3        | 停課                                   |
 | 0611 | 16   |                  | 端午節放假囉～                                                           |
 | 0618 | 17   | 大作業二DEADLINE | 遞迴、展望與回顧                                                         |
 | 0625 | 18   |                  | 第二階段檢定考試                                                         |
