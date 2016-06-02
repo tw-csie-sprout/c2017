@@ -17,6 +17,7 @@
 | 第十一週 0507 | [369-書瑾與他的泡泡們](http://sprout.tw/oj/pro/369/)                                    | [236-榜單排序](http://sprout.tw/oj/pro/236/)、[370-園遊會](http://sprout.tw/oj/pro/370/)、[371-古蹟の自燃發電](http://sprout.tw/oj/pro/371/)         | &nbsp;                                                   |
 | 第十二週 0514 | [153-文字轉轉轉](http://sprout.tw/oj/pro/153/)                                          | [343-簡單的加法](http://sprout.tw/oj/pro/343/)、[385-Winston 竟然發廢文](http://sprout.tw/oj/pro/385)                                                | [352-SuDoKu](http://sprout.tw/oj/pro/352)                |
 | 第十三週 0521 |                                                                                         | [387-紙包雞](http://sprout.tw/oj/pro/387/)、[389-Vim](http://sprout.tw/oj/pro/389)                                                                   | [392-美國隊長 英雄內戰](http://sprout.tw/oj/pro/392)     |
+| 第十四週 0528 |                                                                                         | 無                                                                                                                                                   |                                                          |
 
 ## 大作業 1 - bitmap
 - [作業檔案](https://drive.google.com/open?id=0B_Qu9g2Wq4PbU2VtNjJJYVZoX2s)
