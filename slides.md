@@ -85,7 +85,7 @@
 | 大作業二 sprout_opencv | [sprout_opencv](https://drive.google.com/open?id=0Bx_2mtOqUyDucGVzQk5oNzFvTUU) |
 
 
-## 第十二週投影片 05/14
+## 第十四週投影片 05/28
 
 | 主題                              | 北區投影片                                                                            | 竹區投影片                               |
 | -----------------------           | ----------------------------------------                                              | ---------------------------------------- |
@@ -94,3 +94,10 @@
 | 大作業二 homework02               | [homework02](https://drive.google.com/open?id=0Bx_2mtOqUyDuQjB0cHZJNWtiXzA)           |
 | 大作業二 homework03 preview       | [homework03-preview](https://drive.google.com/open?id=0Bx_2mtOqUyDuVXRpVzNuOGRtWUE)   |
 | 大作業二 sprout_opencv 0.2 RC     | [sprout_opencv_0.2_RC](https://drive.google.com/open?id=0Bx_2mtOqUyDueEdseGlzbERyV00) |
+
+## 第十六週投影片 06/09
+
+| 主題                              | 北區投影片                                                                            | 竹區投影片                               |
+| -----------------------           | ----------------------------------------                                              | ---------------------------------------- |
+| 大作業二 homework03               | [homework03](https://drive.google.com/open?id=1Qlsf5-AMA5A40HWRJuxHM8mzjzt0QV2bxP0-HNCfBvo)                  |                                          |
+| 大作業二 sprout_opencv 0.3 RC     | [sprout_opencv_0.3_RC](https://drive.google.com/open?id=0Bx_2mtOqUyDuRmNQYmU4YVZLaFU)              |
