@@ -78,12 +78,22 @@ static const char *bmp_out = "mountain_out.bmp", *bmp_in = "mountain_in.bmp";
 ```
 
 ## 大作業 2 - OpenCV
-- [作業檔案 521 - 請下載下面的 528 新版](https://drive.google.com/file/d/0B13ab_fQ7QbjbmlJaU1VWlo3MTA/view)
-- [作業檔案 528](https://drive.google.com/open?id=0Bx_2mtOqUyDueXdQbDlTOVhNeHc)
+
+### 遲交規則
+- Homework 1, 2 每遲交一天扣 5%
+- Homework 3 只允許遲交到 7/4 23:59 ，逾期以 0 分計算
+
+### 資料連結
+- [作業檔案 521(HW1) - 請下載下面的 528 新版](https://drive.google.com/file/d/0B13ab_fQ7QbjbmlJaU1VWlo3MTA/view)
+- [作業檔案 528(HW2) - 請下載下面的 609 新版](https://drive.google.com/open?id=0Bx_2mtOqUyDueXdQbDlTOVhNeHc)
+- [作業檔案 609(HW3)](https://drive.google.com/open?id=0Bx_2mtOqUyDuYktyWHFzMlBQT0E)
 - [opencv投影片0 - 介紹](https://drive.google.com/open?id=0B13ab_fQ7QbjX1BaYkdFZ2Uwc2c)
 - [opencv投影片1 - homework01 高斯模糊](https://drive.google.com/open?id=0B13ab_fQ7QbjcThBVDlSS0VlSWM)
 - [opencv投影片2 - sprout_opencv.h documentation 0.1 RC for 作業檔案 521](https://drive.google.com/open?id=0Bx_2mtOqUyDucGVzQk5oNzFvTUU)
-- [opencv投影片3 - sprout_opencv.h documentation 0.2 RC for 作業檔案 528](https://drive.google.com/open?id=0Bx_2mtOqUyDueEdseGlzbERyV00)
+- [opencv投影片3 - homework02 人臉馬賽克](https://drive.google.com/open?id=0Bx_2mtOqUyDuQjB0cHZJNWtiXzA)
+- [opencv投影片4 - sprout_opencv.h documentation 0.2 RC for 作業檔案 528](https://drive.google.com/open?id=0Bx_2mtOqUyDueEdseGlzbERyV00)
+- [opencv投影片5 - homework03 笑面男](https://drive.google.com/open?id=0Bx_2mtOqUyDuY0x0Nk5GQktWVXM)
+- [opencv投影片6 - sprout_opencv.h documentation 0.3 RC for 作業檔案 609](https://drive.google.com/open?id=0Bx_2mtOqUyDuRmNQYmU4YVZLaFU)
 
 ### Homework 01 繳交方式
 - 請使用 **作業檔案 521**來完成本作業。
@@ -167,7 +177,34 @@ project02-hw2.zip
 
 詳細參數解釋請參考 `sprout_opencv.h`。
 
+
+### Homework 03 繳交方式
+- 請使用 **作業檔案 609** 來完成本作業。
+- 請在**07 / 2 (六) 23:59**前上傳至 [sprout LMS 作業上傳系統](http://lang2016.sprout.tw/)
+- 如果有做加分項目，請多寫一個 README 檔案告訴我們你多做了哪些功能！
+- 請把所有檔案以**zip**壓縮，再命名為`project02-hw3`，詳細格式如下
+```
+project02-hw3.zip
+├── sprout_opencv.h
+├── README
+└── laughingman.cpp
+```
+
+### 如何編譯/執行
+在你寫的程式碼的同個資料夾下，必須有`sprout_opencv.h`、`obama.mp4`與`laugning_man`的圖片(或是自行設定正確的路徑)。
+
+### 作業內容
+
+實作一支程式 `laughingman.cpp`，會將 `obama.mp4` 讀入，並依照[作業需求](https://drive.google.com/open?id=0Bx_2mtOqUyDuY0x0Nk5GQktWVXM)
+將 `obama.mp4` 中出現的人臉都打上笑面男的圖像，最後輸出一個 `output.mp4` 的檔案。
+
+
 ### 常見錯誤
-出現 `[Error] 'LINE_8' is not a member of 'cv'`。
+
+##### 出現 `[Error] 'LINE_8' is not a member of 'cv'`。
 
 - 請記得將 Dev-C++ 右上角的編譯選項改為 **TDM-GCC x64 Release / OpenCV 3.10**
+
+##### 出現 `[Error] ld returned 1 exit status`。
+
+- 請不要使用 Dev-C++ 的專案，直接開啟一個檔案即可。
