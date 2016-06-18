@@ -101,3 +101,10 @@
 | -----------------------           | ----------------------------------------                                              | ---------------------------------------- |
 | 大作業二 homework03               | [homework03](https://drive.google.com/open?id=1Qlsf5-AMA5A40HWRJuxHM8mzjzt0QV2bxP0-HNCfBvo)                  |                                          |
 | 大作業二 sprout_opencv 0.3 RC     | [sprout_opencv_0.3_RC](https://drive.google.com/open?id=0Bx_2mtOqUyDuRmNQYmU4YVZLaFU)              |
+
+## 第十七週投影片 06/18
+
+| 主題                              | 北區投影片                                                                            | 竹區投影片                               |
+| -----------------------           | ----------------------------------------                                              | ---------------------------------------- |
+| 回顧與展望 (part1)                | [overview](https://drive.google.com/open?id=0B13ab_fQ7Qbjazd6YnpZYVhOeGc)             |                                          |           
+| 回顧與展望 (part2)                | [future](https://drive.google.com/drive/folders/0B13ab_fQ7QbjbXUzTF9oNjNSLU0)         |
