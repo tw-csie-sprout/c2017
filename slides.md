@@ -107,4 +107,4 @@
 | 主題                              | 北區投影片                                                                            | 竹區投影片                               |
 | -----------------------           | ----------------------------------------                                              | ---------------------------------------- |
 | 回顧與展望 (part1)                | [overview](https://drive.google.com/open?id=0B13ab_fQ7Qbjazd6YnpZYVhOeGc)             |                                          |           
-| 回顧與展望 (part2)                | [future](https://drive.google.com/drive/folders/0B13ab_fQ7QbjbXUzTF9oNjNSLU0)         |
+| 回顧與展望 (part2)                | [future](https://docs.google.com/presentation/d/1ndDtTi_z8XtWLgskWipRLhVksy-9HhgYC0lDLMLOBxs/edit#slide=id.p)         |
