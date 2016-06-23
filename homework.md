@@ -191,7 +191,19 @@ project02-hw3.zip
 ```
 
 ### 如何編譯/執行
-在你寫的程式碼的同個資料夾下，必須有`sprout_opencv.h`、`obama.mp4`與`laugning_man`的圖片(或是自行設定正確的路徑)。
+在你寫的程式碼的同個資料夾下，必須有`sprout_opencv.h`、`obama.mp4`與`laughing_man`的圖片(或是自行設定正確的路徑)。
+請將 `obama.mp4` 與 `laughing_man` 資料夾放在跟程式碼同一個資料夾下。
+詳細的格式如下，但請記得上傳作業時請勿將 `obama.mp4` 和 `laughint_man` 資料夾上傳，檔案會太大。
+```
+project02-hw3.zip
+├── sprout_opencv.h
+├── README
+├── laughingman.cpp
+├── obama.mp4
+└── laughing_man/laugh_nbg/
+```
+[obama.mp4](https://drive.google.com/file/d/0B13ab_fQ7QbjY3pjQlA1dzFOMFE/view)
+[laughing_man.zip](https://drive.google.com/file/d/0B13ab_fQ7QbjM2JuTHlHclFHbW8/view)
 
 ### 作業內容
 
