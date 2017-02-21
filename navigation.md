@@ -1,3 +1,4 @@
-[2016 資訊之芽 C 語法班](index.md)
+[2017 資訊之芽 C/C++ 語法班](index.md)
+[課程大綱](syllabus.md)
 [課程講義](slides.md)
 [課程作業](homework.md)
