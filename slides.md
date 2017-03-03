@@ -22,4 +22,7 @@
 | 主題       | 北區 | 竹區 |
 | ---------- | --- | --- |
 | if else   |   | [if else][hsinchu-if-else] |
+| while迴圈 |   |[while&array.pdf][hsinchu-while]| 
+| 一維陣列  |   | |
 [hsinchu-if-else]: https://drive.google.com/open?id=0B6NYSy8f6mQLaU55Q2Z0dVItTVE
+[hsinchu-while]: https://drive.google.com/file/d/0B0sr_F32IYxLM3VnSVNHWWRmOWs/view?usp=sharing
