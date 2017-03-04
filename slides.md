@@ -17,7 +17,6 @@
 [taipei-expr]: https://drive.google.com/open?id=0B153He1E1uxMTWwtVlVKUXNkVDA
 [hsinchu-expr]: https://drive.google.com/open?id=0Bzxow2VOUeFGZ3JTZ0NTbWg0Q3c
 
-<!-- ## 第二週投影片 03/04 -->
 ## 第二週投影片 03/04
 | 主題      | 北區                         | 竹區                               |
 | ------- | -------------------------- | -------------------------------- |
