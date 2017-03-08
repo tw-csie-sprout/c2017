@@ -30,3 +30,11 @@
 [taipei-array]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbYzlSZDRPOFhyUW8
 [taipei-if-else]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbQ3NPZElnREtmaDQ
 [taipei-while-loop]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbYURXZEFBZ3czWlE
+
+## 第三週投影片 03/11
+| 主題      | 北區                         | 竹區                               |
+| ------- | -------------------------- | -------------------------------- |
+| 迴圈 (for)、控制流程 (break, continue) |  | [for 迴圈、流程控制][hsinchu-for-loop]       |
+| 多維陣列、字元 | | |
+
+[hsinchu-for-loop]: https://hackmd.io/p/HyTLKgiql#/
