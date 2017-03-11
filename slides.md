@@ -35,8 +35,9 @@
 | 主題      | 北區                         | 竹區                               |
 | ------- | -------------------------- | -------------------------------- |
 | 迴圈 (for)、控制流程 (break, continue) | [for 迴圈、流程控制][taipei-for-loop] | [for 迴圈、流程控制][hsinchu-for-loop]       |
-| 多維陣列、字元 | | [multi-array&char.pdf][hsinchu-multi-array&char]|
+| 多維陣列、字元 | [二維陣列與字元][taipei-2d-array&char] | [multi-array&char.pdf][hsinchu-multi-array&char]|
 
 [hsinchu-for-loop]: https://hackmd.io/p/HyTLKgiql#/
 [hsinchu-multi-array&char]: https://drive.google.com/file/d/0B0sr_F32IYxLbnFPaFZWYjh0UEk/view?usp=sharing
+[taipei-2d-array&char]: https://drive.google.com/open?id=0B153He1E1uxMcEVkTmRnTEVGZGM
 [taipei-for-loop]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbU01za21IM2tsSG8 
