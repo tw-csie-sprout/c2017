@@ -45,7 +45,7 @@
 ## 第四週投影片 03/18
 | 主題                     | 北區   | 竹區                                     |
 | ---------------------- | ---- | -------------------------------------- |
-| 函數呼叫、字串(C-style, 常用函式) |      | [for 迴圈、流程控制][hsinchu-funcUse-cstring] |
+| 函數呼叫、字串(C-style, 常用函式) |      | [函數呼叫、字串][hsinchu-funcUse-cstring] |
 |                        |      |                                        |
 
 [hsinchu-funcUse-cstring]: https://drive.google.com/open?id=0B6NYSy8f6mQLRDRsUDJ4azN0Tmc
