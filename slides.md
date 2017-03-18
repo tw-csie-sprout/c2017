@@ -45,7 +45,10 @@
 ## 第四週投影片 03/18
 | 主題                     | 北區   | 竹區                                     |
 | ---------------------- | ---- | -------------------------------------- |
-| 函數呼叫、字串(C-style, 常用函式) |      | [函數呼叫、字串][hsinchu-funcUse-cstring] |
-|                        |      |                                        |
+| 函數呼叫、字串(C-style, 常用函式) | [函數呼叫、字串][taipei-fuctioncall-string] | [函數呼叫、字串][hsinchu-funcUse-cstring] |
+| 資料型態與轉型          |[資料型態與轉型][taipei-type] |                                        |
 
-[hsinchu-funcUse-cstring]: https://drive.google.com/open?id=0B6NYSy8f6mQLRDRsUDJ4azN0Tmc
+[hsinchu-funcUse-cstring]: https://drive.google.com/open?id=0B6NYSy8f6mQLRDRsUDJ4azN0Tmc 
+[taipei-fuctioncall-string]: http://www.csie.ntu.edu.tw/~b04902031/sprout_0318.html
+[taipei-type]: https://drive.google.com/drive/folders/0B1GzPuUbOSiTWTZ1OVpXQ3hBek0
+
