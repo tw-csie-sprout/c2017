@@ -50,5 +50,5 @@
 
 [hsinchu-funcUse-cstring]: https://drive.google.com/open?id=0B6NYSy8f6mQLRDRsUDJ4azN0Tmc 
 [taipei-fuctioncall-string]: http://www.csie.ntu.edu.tw/~b04902031/sprout_0318.html
-[taipei-type]: https://drive.google.com/drive/folders/0B1GzPuUbOSiTWTZ1OVpXQ3hBek0
+[taipei-type]: https://drive.google.com/open?id=0B1GzPuUbOSiTZVZfTGRjeUhxNXc
 
