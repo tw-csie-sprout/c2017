@@ -21,7 +21,7 @@
 | 主題      | 北區                         | 竹區                               |
 | ------- | -------------------------- | -------------------------------- |
 | if else | [if-else][taipei-if-else]  | [if else][hsinchu-if-else]       |
-| while迴圈 | [while][taipei-while-loop] | [while&array.pdf][hsinchu-while] |
+| while迴圈 | [while][taipei-while-loop] | [while&array][hsinchu-while] |
 | 一維陣列    | [array][taipei-array]      |                                  |
 
 [hsinchu-if-else]: https://drive.google.com/open?id=0B6NYSy8f6mQLaU55Q2Z0dVItTVE
@@ -35,7 +35,7 @@
 | 主題                              | 北區                              | 竹區                                       |
 | ------------------------------- | ------------------------------- | ---------------------------------------- |
 | 迴圈 (for)、控制流程 (break, continue) | [for 迴圈、流程控制][taipei-for-loop]  | [for 迴圈、流程控制][hsinchu-for-loop]          |
-| 多維陣列、字元                         | [二維陣列與字元][taipei-2d-array&char] | [multi-array&char.pdf][hsinchu-multi-array&char] |
+| 多維陣列、字元                         | [二維陣列與字元][taipei-2d-array&char] | [multi-array&char][hsinchu-multi-array&char] |
 
 [hsinchu-for-loop]: https://hackmd.io/p/HyTLKgiql#/
 [hsinchu-multi-array&char]: https://drive.google.com/file/d/0B0sr_F32IYxLbnFPaFZWYjh0UEk/view?usp=sharing
@@ -55,3 +55,10 @@
 [taipei-type]: https://drive.google.com/open?id=0B1GzPuUbOSiTZVZfTGRjeUhxNXc
 [coding-style]: http://goo.gl/R1aeIL
 
+## 第五週投影片 03/25
+| 主題                     | 北區   | 竹區                                     |
+| ---------------------- | ---- | -------------------------------------- |
+| 編寫函數 |   | [編寫函數][hsinchu-function] |
+| scope、變數生命週期 |  |  [scope、變數生命週期][hsinchu-scope]                                      |
+[hsinchu-function]: https://drive.google.com/open?id=0B0sr_F32IYxLWE84OWlFNy05MU0
+[hsinchu-scope]: https://drive.google.com/open?id=0Bzxow2VOUeFGekpzOGNhY3ZlcGc
