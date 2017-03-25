@@ -59,7 +59,8 @@
 | 編寫函數 |  [編寫函數][taipei-function] | [編寫函數][hsinchu-function] |
 | scope、變數生命週期 | [scope、變數生命週期][taipei-scope] |  [scope、變數生命週期][hsinchu-scope]                                      |
 | 程式風格               | [Coding-style][coding-style] | 同北區 |
-| 大作業1 | [大作業-GTK+][taipei-proj1] |   同北區   |
+| 大作業1 | [大作業-GTK+][taipei-proj1] | 同北區 |
+
 [hsinchu-function]: https://drive.google.com/open?id=0B0sr_F32IYxLWE84OWlFNy05MU0
 [hsinchu-scope]: https://drive.google.com/open?id=0Bzxow2VOUeFGekpzOGNhY3ZlcGc
 [taipei-function]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbN2NEclhJbllpVXM
