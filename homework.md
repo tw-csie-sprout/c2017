@@ -8,7 +8,7 @@
 | 03/04 | 02 |  [200 - 閏年問題][]、[203 - 終極倒數][]、[294 - 我愛零分][]| [295 - 三角形判斷][]、[296 - 多運動有益身心健康][]、[298 - 計算成績][] |   |[week02][week02] |
 | 03/11 | 03 | [209 - σ．σ - 2015][] | [1414 - 金坷垃觀光農場][]、[311 - Go!][]、[331 - 告白密文][] |    | [week03][week03] |
 | 03/18 | 04 |    |[332 - 單字還原][]    |    ||
-| 03/25 | 05 |    |[224 - 超級 GCD][]、[345 - A.伊布的邀請(函數版)][]    |    ||
+| 03/25 | 05 |    |[224 - 超級 GCD][]、[225 - 3n+1 problem (II)][]    |    ||
 | 04/01 | 06 |    |    |    ||
 | 04/08 | 07 |    |    |    ||
 | 04/15 | 08 |    |    |    ||
@@ -27,7 +27,7 @@
 [331 - 告白密文]: http://neoj.sprout.tw/problem/331/
 [332 - 單字還原]: http://neoj.sprout.tw/problem/332/
 [224 - 超級 GCD]: http://neoj.sprout.tw/problem/224/
-[345 - A.伊布的邀請(函數版)]: http://neoj.sprout.tw/problem/345/
+[225 - 3n+1 problem (II)]: http://neoj.sprout.tw/problem/225/
 
 [week01]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbWUxDV2ZIcWlFVzA
 [week02]: https://drive.google.com/open?id=0B8Sm4iboInAZVkF5ZkprWkdBejA
