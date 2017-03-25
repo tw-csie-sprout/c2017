@@ -47,21 +47,21 @@
 | ---------------------- | ---- | -------------------------------------- |
 | 函數呼叫、字串(C-style, 常用函式) | [函數呼叫、字串][taipei-fuctioncall-string] | [函數呼叫、字串][hsinchu-funcUse-cstring] |
 | 資料型態與轉型          |[資料型態與轉型][taipei-type] |  [資料型態與轉型][hsinchu-type]                                      |
-| 程式風格               | [Coding-style][coding-style] | 同北區 |
 
 [hsinchu-funcUse-cstring]: https://drive.google.com/open?id=0B6NYSy8f6mQLRDRsUDJ4azN0Tmc 
 [hsinchu-type]: https://drive.google.com/file/d/0Bzxow2VOUeFGZGo3TjNDNTA1TE0/view
 [taipei-fuctioncall-string]: http://www.csie.ntu.edu.tw/~b04902031/sprout_0318.html
 [taipei-type]: https://drive.google.com/open?id=0B1GzPuUbOSiTZVZfTGRjeUhxNXc
-[coding-style]: http://goo.gl/R1aeIL
 
 ## 第五週投影片 03/25
 | 主題                     | 北區   | 竹區                                     |
 | ---------------------- | ---- | -------------------------------------- |
 | 編寫函數 |   | [編寫函數][hsinchu-function] |
 | scope、變數生命週期 |  |  [scope、變數生命週期][hsinchu-scope]                                      |
+| 程式風格               | [Coding-style][coding-style] | 同北區 |
 | 大作業1 | [大作業-GTK+][taipei-proj1] | |
 
 [hsinchu-function]: https://drive.google.com/open?id=0B0sr_F32IYxLWE84OWlFNy05MU0
 [hsinchu-scope]: https://drive.google.com/open?id=0Bzxow2VOUeFGekpzOGNhY3ZlcGc
 [taipei-proj1]: https://drive.google.com/open?id=0B153He1E1uxMVE9sSjZBaklpQXM
+[coding-style]: http://goo.gl/R1aeIL
