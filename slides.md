@@ -72,7 +72,7 @@
 ## 第七週投影片 04/08
 | 主題 | 北區 | 竹區 |
 | ---- | ---- | ---- |
-| 遞迴(費氏數列) | | |
+| 遞迴(費氏數列) |[遞迴][http://slides.com/austinlaurice/deck-7#/] | |
 | 修飾子(const, long, short) | | |
 | 課程回顧 | | [課程回顧][hsinchu-review] |
 
