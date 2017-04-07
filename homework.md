@@ -9,8 +9,7 @@
 | 03/11 |  03  | [209 - σ．σ - 2015][]                     | [1414 - 金坷垃觀光農場][]、[311 - Go!][]、[331 - 告白密文][] |      | [week03][week03] |
 | 03/18 |  04  |                                          | [332 - 單字還原][]                           |      | [week04][week04] |
 | 03/25 |  05  |                                          | [224 - 超級 GCD][]、[225 - 3n+1 problem (II)][] |      | [week05][week05] |
-| 04/01 |  06  |                                          |                                          |      |                  |
-| 04/08 |  07  |                                          |                                          |      |                  |
+| 04/08 |  07  |                                          | [346 - 大雄的最大公因數][]                   |      |                  |
 | 04/15 |  08  |                                          |                                          |      |                  |
 
 [666 - 你的名子]: http://neoj.sprout.tw/problem/666/
@@ -28,6 +27,7 @@
 [332 - 單字還原]: http://neoj.sprout.tw/problem/332/
 [224 - 超級 GCD]: http://neoj.sprout.tw/problem/224/
 [225 - 3n+1 problem (II)]: http://neoj.sprout.tw/problem/225/
+[346 - 大雄的最大公因數]: http://neoj.sprout.tw/problem/346/
 
 [week01]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbWUxDV2ZIcWlFVzA
 [week02]: https://drive.google.com/open?id=0B8Sm4iboInAZVkF5ZkprWkdBejA
