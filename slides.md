@@ -73,7 +73,7 @@
 | 主題 | 北區 | 竹區 |
 | ---- | ---- | ---- |
 | 遞迴(費氏數列) |[遞迴][recursion] |[遞迴][hsinchu-recursion] |
-| 修飾子(const, long, short) | [修飾子][taipei-qualifiers] | |
+| 修飾子(const, long, short) | [修飾子][taipei-qualifiers] | 同北區 |
 | 課程回顧 | | [課程回顧][hsinchu-review] |
 
 [hsinchu-review]: https://drive.google.com/file/d/0Bx_2mtOqUyDuODVWX0ktV29BU2c/view
