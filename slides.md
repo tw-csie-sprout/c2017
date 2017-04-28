@@ -18,11 +18,11 @@
 [hsinchu-expr]: https://drive.google.com/open?id=0Bzxow2VOUeFGZ3JTZ0NTbWg0Q3c
 
 ## 第二週投影片 03/04
-| 主題      | 北區                         | 竹區                               |
-| ------- | -------------------------- | -------------------------------- |
-| if else | [if-else][taipei-if-else]  | [if else][hsinchu-if-else]       |
+| 主題      | 北區                         | 竹區                           |
+| ------- | -------------------------- | ---------------------------- |
+| if else | [if-else][taipei-if-else]  | [if else][hsinchu-if-else]   |
 | while迴圈 | [while][taipei-while-loop] | [while&array][hsinchu-while] |
-| 一維陣列    | [array][taipei-array]      |                                  |
+| 一維陣列    | [array][taipei-array]      |                              |
 
 [hsinchu-if-else]: https://drive.google.com/open?id=0B6NYSy8f6mQLaU55Q2Z0dVItTVE
 [hsinchu-while]: https://drive.google.com/file/d/0B0sr_F32IYxLM3VnSVNHWWRmOWs/view?usp=sharing
@@ -43,23 +43,23 @@
 [taipei-for-loop]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbU01za21IM2tsSG8
 
 ## 第四週投影片 03/18
-| 主題                     | 北區   | 竹區                                     |
-| ---------------------- | ---- | -------------------------------------- |
+| 主題                     | 北區                                   | 竹區                                 |
+| ---------------------- | ------------------------------------ | ---------------------------------- |
 | 函數呼叫、字串(C-style, 常用函式) | [函數呼叫、字串][taipei-fuctioncall-string] | [函數呼叫、字串][hsinchu-funcUse-cstring] |
-| 資料型態與轉型          |[資料型態與轉型][taipei-type] |  [資料型態與轉型][hsinchu-type]                                      |
+| 資料型態與轉型                | [資料型態與轉型][taipei-type]               | [資料型態與轉型][hsinchu-type]            |
 
-[hsinchu-funcUse-cstring]: https://drive.google.com/open?id=0B6NYSy8f6mQLRDRsUDJ4azN0Tmc 
+[hsinchu-funcUse-cstring]: https://drive.google.com/open?id=0B6NYSy8f6mQLRDRsUDJ4azN0Tmc
 [hsinchu-type]: https://drive.google.com/file/d/0Bzxow2VOUeFGZGo3TjNDNTA1TE0/view
 [taipei-fuctioncall-string]: http://www.csie.ntu.edu.tw/~b04902031/sprout_0318.html
 [taipei-type]: https://drive.google.com/open?id=0B1GzPuUbOSiTZVZfTGRjeUhxNXc
 
 ## 第五週投影片 03/25
-| 主題                     | 北區   | 竹區                                     |
-| ---------------------- | ---- | -------------------------------------- |
-| 編寫函數 |  [編寫函數][taipei-function] | [編寫函數][hsinchu-function] |
-| scope、變數生命週期 | [scope、變數生命週期][taipei-scope] |  [scope、變數生命週期][hsinchu-scope]                                      |
-| 程式風格               | [Coding-style][coding-style] | 同北區 |
-| 大作業1 | [大作業-GTK+][taipei-proj1] | 同北區 |
+| 主題           | 北區                           | 竹區                            |
+| ------------ | ---------------------------- | ----------------------------- |
+| 編寫函數         | [編寫函數][taipei-function]      | [編寫函數][hsinchu-function]      |
+| scope、變數生命週期 | [scope、變數生命週期][taipei-scope] | [scope、變數生命週期][hsinchu-scope] |
+| 程式風格         | [Coding-style][coding-style] | 同北區                           |
+| 大作業1         | [大作業-GTK+][taipei-proj1]     | 同北區                           |
 
 [hsinchu-function]: https://drive.google.com/open?id=0B0sr_F32IYxLWE84OWlFNy05MU0
 [hsinchu-scope]: https://drive.google.com/open?id=0Bzxow2VOUeFGekpzOGNhY3ZlcGc
@@ -80,3 +80,13 @@
 [hsinchu-recursion]: https://drive.google.com/open?id=0B6NYSy8f6mQLVkQ0TzdFWGhQUzg
 [recursion]: http://slides.com/austinlaurice/deck-7#/
 [taipei-qualifiers]: https://drive.google.com/open?id=0B153He1E1uxMX3o2Zk9IZnRJQUk
+[hsinchu-review]: https://drive.google.com/file/d/0Bx_2mtOqUyDuODVWX0ktV29BU2c/view
+
+### 第十週投影片 04/29
+| 主題         | 北區   | 竹區   |
+| ---------- | ---- | ---- |
+| C++ String |   [C++字串][taipei-string]   |      |
+| Stream     |   [各種串流][taipei-stream]   |      |
+
+[taipei-string]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbeHA0VHJ5T21zcnM
+[taipei-stream]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbbGI3UVhwd081cDQ
