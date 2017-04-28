@@ -85,8 +85,8 @@
 ### 第十週投影片 04/29
 | 主題         | 北區   | 竹區   |
 | ---------- | ---- | ---- |
-| C++ String |   [C++字串][taipei-string]   |  [C++ String][hsinchu-string]   |
-| Stream     |   [各種串流][taipei-stream]   |  [io|f|s stream][hsinchu-stram]    |
+| C++ String |   [C++字串][taipei-string]   |  [C++ string][hsinchu-string]   |
+| Stream     |   [各種串流][taipei-stream]   |  [stream][hsinchu-stram]    |
 | struct     |                              |  [簡單介紹struct][hsinchu-struct]   |
 
 [taipei-string]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbeHA0VHJ5T21zcnM
