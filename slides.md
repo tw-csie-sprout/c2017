@@ -83,14 +83,17 @@
 [hsinchu-review]: https://drive.google.com/file/d/0Bx_2mtOqUyDuODVWX0ktV29BU2c/view
 
 ### 第十週投影片 04/29
-| 主題         | 北區   | 竹區   |
+| 主題       | 北區 | 竹區 |
 | ---------- | ---- | ---- |
 | C++ String |   [C++字串][taipei-string]   |  [C++ string][hsinchu-string]   |
-| Stream     |   [各種串流][taipei-stream]   |  [stream][hsinchu-stram]    |
-| struct     |                              |  [簡單介紹struct][hsinchu-struct]   |
+| Stream     |   [各種串流][taipei-stream]  |  [stream][hsinchu-stram]    |
+| struct     |   [struct][taipei-struct]    |  [簡單介紹struct][hsinchu-struct]   |
+| 大作業     |   [大作業講解][project1]     | |
 
 [taipei-string]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbeHA0VHJ5T21zcnM
 [taipei-stream]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbbGI3UVhwd081cDQ
 [hsinchu-string]:https://drive.google.com/open?id=0B0sr_F32IYxLeTR3VURzejFqck0
 [hsinchu-stram]:https://drive.google.com/open?id=0B0sr_F32IYxLTlFna3dGeU9tNmc
 [hsinchu-struct]:https://drive.google.com/open?id=0B0sr_F32IYxLeDhKSkVxUVNsblU
+[taipei-struct]:https://drive.google.com/open?id=0B153He1E1uxMZWhBLUF4VU5RU1k
+[project1]: https://drive.google.com/open?id=0B153He1E1uxMc2lUV1ZNRHRaZHM
