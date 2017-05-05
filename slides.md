@@ -97,3 +97,11 @@
 [hsinchu-struct]:https://drive.google.com/open?id=0B0sr_F32IYxLeDhKSkVxUVNsblU
 [taipei-struct]:https://drive.google.com/open?id=0B153He1E1uxMZWhBLUF4VU5RU1k
 [project1]: https://drive.google.com/open?id=0B153He1E1uxMc2lUV1ZNRHRaZHM
+
+### 第十週投影片 04/29
+| 主題       | 北區 | 竹區 |
+| ---------- | ---- | ---- |
+| Sort |     |  [C++ Sort][hsinchu-sort]   |
+|      |     |      |
+
+[hsinchu-sort]: https://drive.google.com/file/d/0Bzxow2VOUeFGcFVsWGRIV180aU0/view?usp=sharing
