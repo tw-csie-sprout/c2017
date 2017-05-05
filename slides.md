@@ -98,10 +98,11 @@
 [taipei-struct]:https://drive.google.com/open?id=0B153He1E1uxMZWhBLUF4VU5RU1k
 [project1]: https://drive.google.com/open?id=0B153He1E1uxMc2lUV1ZNRHRaZHM
 
-### 第十週投影片 04/29
+### 第十一週投影片 05/6
 | 主題       | 北區 | 竹區 |
 | ---------- | ---- | ---- |
-| Sort |     |  [C++ Sort][hsinchu-sort]   |
-|      |     |      |
+|排列與二分搜|[Sort & Binary Search][taipei-sort]     |  [C++ Sort][hsinchu-sort]   |
+|時間複雜度|     |      |
 
 [hsinchu-sort]: https://drive.google.com/file/d/0Bzxow2VOUeFGcFVsWGRIV180aU0/view?usp=sharing
+[taipei-sort]: http://slides.com/austinlaurice/deck#/
