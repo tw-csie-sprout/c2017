@@ -98,7 +98,7 @@
 [taipei-struct]:https://drive.google.com/open?id=0B153He1E1uxMZWhBLUF4VU5RU1k
 [project1]: https://drive.google.com/open?id=0B153He1E1uxMc2lUV1ZNRHRaZHM
 
-### 第十一週投影片 05/6
+### 第十一週投影片 05/06
 | 主題       | 北區 | 竹區 |
 | ---------- | ---- | ---- |
 |排列與二分搜|[Sort & Binary Search][taipei-sort]     |  [C++ Sort][hsinchu-sort]   |
