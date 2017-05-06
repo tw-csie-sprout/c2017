@@ -102,7 +102,8 @@
 | 主題       | 北區 | 竹區 |
 | ---------- | ---- | ---- |
 |排列與二分搜|[Sort & Binary Search][taipei-sort]     |  [C++ Sort][hsinchu-sort]   |
-|時間複雜度|     |      |
+|時間複雜度|     | [複雜度概念、二分搜尋法][hsinchu-bigO] |
 
 [hsinchu-sort]: https://drive.google.com/file/d/0Bzxow2VOUeFGcFVsWGRIV180aU0/view?usp=sharing
+[hsinchu-bigO]: https://hackmd.io/p/rywE-B4k-#/
 [taipei-sort]: http://slides.com/austinlaurice/deck#/
