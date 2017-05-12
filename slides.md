@@ -112,6 +112,7 @@
 ### 第十二週投影片 05/06
 | 主題       | 北區 | 竹區 |
 | ---------- | ---- | ---- |
-|指標、記憶體與refence |[memory][taipei-memory] |  |
+|指標、記憶體與refence |[memory][taipei-memory] | [reference][hsinchu-reference] |
 
 [taipei-memory]:  http://www.csie.ntu.edu.tw/~b04902031/memory.html
+[hsinchu-reference]:  https://drive.google.com/open?id=0B0rNGJXk3ETcUHNtaVFvTEJwanc
