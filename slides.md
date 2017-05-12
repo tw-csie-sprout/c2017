@@ -113,5 +113,8 @@
 | 主題       | 北區 | 竹區 |
 | ---------- | ---- | ---- |
 |指標、記憶體與refence |[memory][taipei-memory] |  |
+|指標|  |[pointer][hsinchu-pointer]|
+|reference| ||
 
 [taipei-memory]:  http://www.csie.ntu.edu.tw/~b04902031/memory.html
+[hsinchu-pointer]: https://drive.google.com/open?id=0B0sr_F32IYxLV0RVSEtCS0UtU28
