@@ -12,6 +12,7 @@
 | 04/08 |  07  | [350 - 巴斯卡三角形][] | [346 - 大雄的最大公因數][]                   |      |                  |
 | 04/15 |  08  |                                          |                        |      |                 |
 | 05/06 |  11  | [369 - 書瑾與他的泡泡們][] | [236 - 榜單排序][]、[371 - 古蹟の自燃發電][]  |      |              |
+| 05/13 |  12  |  | [425 - 給開司一份薯片][]、[385 - Winston 竟然發廢文][]  |      |              |
 
 
 [666 - 你的名子]: http://neoj.sprout.tw/problem/666/
@@ -34,6 +35,8 @@
 [369 - 書瑾與他的泡泡們]:http://neoj.sprout.tw/problem/369/
 [236 - 榜單排序]:http://neoj.sprout.tw/problem/236/
 [371 - 古蹟の自燃發電]:http://neoj.sprout.tw/problem/371/
+[385 - Winston 竟然發廢文]:http://neoj.sprout.tw/problem/385/
+[425 - 給開司一份薯片]:http://neoj.sprout.tw/problem/425/
 
 [week01]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbWUxDV2ZIcWlFVzA
 [week02]: https://drive.google.com/open?id=0B8Sm4iboInAZVkF5ZkprWkdBejA
