@@ -109,7 +109,7 @@
 [taipei-complexity]: http://www.csie.ntu.edu.tw/~b04902031/complexity.html
 [taipei-sort]: http://slides.com/austinlaurice/deck#/
 
-### 第十二週投影片 05/06
+### 第十二週投影片 05/13
 
 | 主題             | 北區                           | 竹區                         |
 | -------------- | ---------------------------- | -------------------------- |
