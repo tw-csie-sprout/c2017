@@ -2,7 +2,7 @@
 
 ## 第一週投影片 02/25
 | 主題     | 北區                                  | 竹區                                   |
-| ------ | ----------------------------------- | ------------------------------------ |
+| ------------ | ---------------------------- | ----------------------------- |
 | 課程介紹   | [Introduction][taipei-introduction] | [Introduction][hsinchu-introduction] |
 | 背景知識   | [Background.pdf][taipei-background] | [新手上路][hsinchu-background]           |
 | IDE    | [Dev-C++.pdf][]                     | [Visual Studio 安裝][]                 |
@@ -19,7 +19,7 @@
 
 ## 第二週投影片 03/04
 | 主題      | 北區                         | 竹區                           |
-| ------- | -------------------------- | ---------------------------- |
+| ------------ | ---------------------------- | ----------------------------- |
 | if else | [if-else][taipei-if-else]  | [if else][hsinchu-if-else]   |
 | while迴圈 | [while][taipei-while-loop] | [while&array][hsinchu-while] |
 | 一維陣列    | [array][taipei-array]      |                              |
@@ -33,7 +33,7 @@
 
 ## 第三週投影片 03/11
 | 主題                              | 北區                              | 竹區                                       |
-| ------------------------------- | ------------------------------- | ---------------------------------------- |
+| ------------ | ---------------------------- | ----------------------------- |
 | 迴圈 (for)、控制流程 (break, continue) | [for 迴圈、流程控制][taipei-for-loop]  | [for 迴圈、流程控制][hsinchu-for-loop]          |
 | 多維陣列、字元                         | [二維陣列與字元][taipei-2d-array&char] | [multi-array&char][hsinchu-multi-array&char] |
 
@@ -44,7 +44,7 @@
 
 ## 第四週投影片 03/18
 | 主題                     | 北區                                   | 竹區                                 |
-| ---------------------- | ------------------------------------ | ---------------------------------- |
+| ------------ | ---------------------------- | ----------------------------- |
 | 函數呼叫、字串(C-style, 常用函式) | [函數呼叫、字串][taipei-fuctioncall-string] | [函數呼叫、字串][hsinchu-funcUse-cstring] |
 | 資料型態與轉型                | [資料型態與轉型][taipei-type]               | [資料型態與轉型][hsinchu-type]            |
 
@@ -71,7 +71,7 @@
 
 ## 第七週投影片 04/08
 | 主題 | 北區 | 竹區 |
-| ---- | ---- | ---- |
+| ------------ | ---------------------------- | ----------------------------- |
 | 遞迴(費氏數列) |[遞迴][recursion] |[遞迴][hsinchu-recursion] |
 | 修飾子(const, long, short) | [修飾子][taipei-qualifiers] | 同北區 |
 | 課程回顧 | | [課程回顧][hsinchu-review] |
@@ -84,7 +84,7 @@
 
 ### 第十週投影片 04/29
 | 主題       | 北區 | 竹區 |
-| ---------- | ---- | ---- |
+| ------------ | ---------------------------- | ----------------------------- |
 | C++ String |   [C++字串][taipei-string]   |  [C++ string][hsinchu-string]   |
 | Stream     |   [各種串流][taipei-stream]  |  [stream][hsinchu-stream]    |
 | struct     |   [struct][taipei-struct]    |  [簡單介紹struct][hsinchu-struct]   |
@@ -100,7 +100,7 @@
 
 ### 第十一週投影片 05/06
 | 主題       | 北區 | 竹區 |
-| ---------- | ---- | ---- |
+| ------------ | ---------------------------- | ----------------------------- |
 |排列與二分搜|[Sort & Binary Search][taipei-sort]     |  [C++ Sort][hsinchu-sort]   |
 |時間複雜度|[Complexity][taipei-complexity]     | [複雜度概念、二分搜尋法][hsinchu-bigO] |
 
@@ -112,7 +112,7 @@
 ### 第十二週投影片 05/13
 
 | 主題             | 北區                           | 竹區                         |
-| -------------- | ---------------------------- | -------------------------- |
+| ------------ | ---------------------------- | ----------------------------- |
 | 記憶體            | [memory][taipei-memory]      |                            |
 | 指標、記憶體與refence | [func-ptr-ref][taipei-func-ptr-ref] |                  |
 | 指標             |                              | [pointer][hsinchu-pointer] |
@@ -126,10 +126,10 @@
 ### 第十三週投影片 05/20
 
 | 主題             | 北區                           | 竹區                         |
-| -------------- | ---------------------------- | -------------------------- |
+| ------------ | ---------------------------- | ----------------------------- |
 | 指標與動態記憶體| [struct-ptr & dynamic-memory][taipei-dynamic-memory]      | [struct-ptr & dynamic-memory & linklist][hsinchu-dynamic-memory]|
-| linklist            |                              | |
-| 標頭檔            |                              | |[header-file][hsinchu-header-file]|
+| linklist            |                            |    |
+| 標頭檔            |                              | [header-file][hsinchu-header-file]|
 
 [taipei-dynamic-memory]:  https://hackmd.io/p/HJT0m73x-#/
 [hsinchu-dynamic-memory]: https://hackmd.io/p/rkF9P4Yeb#/
