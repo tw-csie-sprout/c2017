@@ -118,9 +118,19 @@
 | 指標             |                              | [pointer][hsinchu-pointer] |
 |reference|                                      |[reference][hsinchu-reference]|
 
-
 [taipei-memory]:  http://www.csie.ntu.edu.tw/~b04902031/memory.html
 [hsinchu-pointer]: https://drive.google.com/open?id=0B0sr_F32IYxLV0RVSEtCS0UtU28
 [taipei-func-ptr-ref]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbaGJTek5KazhGMXc
 [hsinchu-reference]:  https://drive.google.com/open?id=0B0rNGJXk3ETcUHNtaVFvTEJwanc
 
+### 第十三週投影片 05/20
+
+| 主題             | 北區                           | 竹區                         |
+| -------------- | ---------------------------- | -------------------------- |
+| 指標與動態記憶體| [struct-ptr & dynamic-memory][taipei-dynamic-memory]      | [struct-ptr & dynamic-memory & linklist][hsinchu-dynamic-memory]|
+| linklist            |                              | |
+| 標頭檔            |                              | |[header-file][hsinchu-header-file]|
+
+[taipei-dynamic-memory]:  https://hackmd.io/p/HJT0m73x-#/
+[hsinchu-dynamic-memory]: https://hackmd.io/p/rkF9P4Yeb#/
+[hsinchu-header-file]: https://hackmd.io/p/Sy4C-g5xW#/
