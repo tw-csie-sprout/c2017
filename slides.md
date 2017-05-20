@@ -128,10 +128,11 @@
 | 主題             | 北區                           | 竹區                         |
 | ------------ | ---------------------------- | ----------------------------- |
 | 指標與動態記憶體| [struct-ptr & dynamic-memory][taipei-dynamic-memory]      | [struct-ptr & dynamic-memory & linklist][hsinchu-dynamic-memory]|
-| linklist            |                            |[linked list][hsinchu-linked-list]    |
+| linklist            | [linked list][taipei-linked-list]|[linked list][hsinchu-linked-list]    |
 | 標頭檔            |                              | [header-file][hsinchu-header-file]|
 
 [taipei-dynamic-memory]:  https://hackmd.io/p/HJT0m73x-#/
+[taipei-linked-list]: https://hackmd.io/p/HyADy2ng-#/3
 [hsinchu-dynamic-memory]: https://hackmd.io/p/rkF9P4Yeb#/
 [hsinchu-header-file]: https://hackmd.io/p/Sy4C-g5xW#/
 [hsinchu-linked-list]: https://drive.google.com/open?id=0B0sr_F32IYxLSnd3enJ2c2p0d2s
