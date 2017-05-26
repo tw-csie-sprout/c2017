@@ -141,6 +141,10 @@
 
 | 主題             | 北區                           | 竹區                         |
 | ------------ | ---------------------------- | ----------------------------- |
-|template與STL|                               |[template & STL][hsinchu-template-STL]
+|template與STL|                               |[template & STL][hsinchu-template-STL]|
+|Data Structure| [Data Structure][taipei-data-structure] |                                     |
+|Algorithm| [Algorithm][taipei-algorithm]  |                                     |
 
 [hsinchu-template-STL]: https://drive.google.com/open?id=0B0sr_F32IYxLUGtodHNPc2VScW8
+[taipei-data-structure]:https://goo.gl/5lvuIw
+[taipei-algorithm]:https://goo.gl/tzqIv8
