@@ -136,3 +136,11 @@
 [hsinchu-dynamic-memory]: https://hackmd.io/p/rkF9P4Yeb#/
 [hsinchu-header-file]: https://hackmd.io/p/Sy4C-g5xW#/
 [hsinchu-linked-list]: https://drive.google.com/open?id=0B0sr_F32IYxLSnd3enJ2c2p0d2s
+
+### 第十四週投影片 05/27
+
+| 主題             | 北區                           | 竹區                         |
+| ------------ | ---------------------------- | ----------------------------- |
+|template與STL|                               |[template&STL][hsinchu-template-STL]
+
+[hsinchu-template-STL]: https://drive.google.com/open?id=0B0sr_F32IYxLUGtodHNPc2VScW8
