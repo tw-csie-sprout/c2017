@@ -13,7 +13,7 @@
 | 04/15 |  08  |                                          |                        |      |                 |
 | 05/06 |  11  | [369 - 書瑾與他的泡泡們][] | [236 - 榜單排序][]、[371 - 古蹟の自燃發電][]  |      |              |
 | 05/13 |  12  |  | [425 - 給開司一份薯片][]、[385 - Winston 竟然發廢文][]  |      |              |
-| 05/20 |  13  | [153 - 文字轉轉轉][]  | [170 - doubly linked list][]、[250 - Linked-List][]、[1415 - 排隊問題][] |      | [week13][week13] |
+| 05/20 |  13  | [153 - 文字轉轉轉][]  | [170 - doubly linked list][]、[250 - Linked-List][]、[1415 - 排隊問題][] |      | |
 
 
 [666 - 你的名子]: http://neoj.sprout.tw/problem/666/
@@ -48,4 +48,3 @@
 [week03]: https://hackmd.io/p/S1tjitFil#/
 [week04]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbTUo5Zi01WUw4TG8
 [week05]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbMExWR3kxeTViVjQ
-[week13]: https://hackmd.io/s/SJpm5qrb-
