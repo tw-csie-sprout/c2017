@@ -1,11 +1,8 @@
-# 第二階段大作業
-NS-SHAFT in Qt 5.8
-## 重要資訊
-- 繳交期限：6/24 (六) 23:59
-- 繳交地點：未定
+# 環境安裝
 
-## 下載與安裝環境
-### 下載 Qt5
+本次作業使用 Qt 的圖形使用者界面套件，為了避免環境問題，需要連 Qt 原生的整開發環境 Qt Creator 一起安裝。
+
+## 下載 Qt5
 
 [Donwload Link](https://www.qt.io/download-open-source/#section-2)
 
@@ -15,8 +12,7 @@ Windows 請選 For Windows，Mac 請選 for macOS
 
 下載完畢後，開啟安裝程式
 
-### 安裝 Qt5 、 Qt Creator、MinGW
-
+## 安裝 Qt5 、 Qt Creator、MinGW
 1. 安裝程式歡迎畫面：直接點 `Next >` 下一步
 2. 註冊與登入頁面：點 `Skip >` 下一步跳過即可
 3. Qt 歡迎畫面：直接下一步
@@ -29,15 +25,12 @@ Windows 請選 For Windows，Mac 請選 for macOS
 10. 安裝：這裡它會下載資料並自動安裝在你的系統上，需要幾分鐘
 11. 完成：點 `Finish` ，系統會自動開啟 Qt Creator
 
-### 開啟專案
+## 開啟專案
 
 1. 點[這裡](https://drive.google.com/open?id=0B_Qu9g2Wq4PbUTdQTkpQcDBOY0k)，再點網頁右上角的箭頭，以下載這次作業用 ZIP 壓縮的「測試用」專案檔
 2. 下載回來後，對檔案點右鍵並選擇「解壓縮全部」，指定路徑為**任一個全英文路徑的資料夾**，例如 `D:\sprout\ns-shaft-demo\` ，或者直接放桌面上。請務必確認資料夾路徑**沒有中文**，例如以下就是一個正確的例子
-![](https://i.imgur.com/4XWPg3S.png)
+   ![](https://i.imgur.com/4XWPg3S.png)
 3. 打開剛剛解壓縮在桌面的資料夾，開啟 `proj.pro` (Qt Project File) 專案檔
 4. 它會跳出視窗問你要不要用該專案的環境設定，點 Yes，如果沒有跳視窗請直接去第 6 步
 5. 點右邊的 Configure project
 6. 點左下角的綠色三角形箭頭(編譯並執行)，試玩一下做一半的遊戲，如果可以執行代表你 Qt 環境安裝完成！
-
-### 作業敘述
-未定
