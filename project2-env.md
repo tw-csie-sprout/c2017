@@ -27,7 +27,7 @@ Windows 請選 For Windows，Mac 請選 for macOS
 
 ## 開啟專案
 
-1. 點[這裡](https://drive.google.com/open?id=0B_Qu9g2Wq4PbUTdQTkpQcDBOY0k)，再點網頁右上角的箭頭，以下載這次作業用 ZIP 壓縮的「測試用」專案檔
+1. 去[重要資訊](#!project2-info.md)下載作業檔案
 2. 下載回來後，對檔案點右鍵並選擇「解壓縮全部」，指定路徑為**任一個全英文路徑的資料夾**，例如 `D:\sprout\ns-shaft-demo\` ，或者直接放桌面上。請務必確認資料夾路徑**沒有中文**，例如以下就是一個正確的例子
    ![](https://i.imgur.com/4XWPg3S.png)
 3. 打開剛剛解壓縮在桌面的資料夾，開啟 `proj.pro` (Qt Project File) 專案檔
