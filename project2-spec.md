@@ -33,8 +33,36 @@ void Stair::rightRollStairEffect() {
 
 ### Part 2: 2P 模式 (30 %)
 
-此外，還要替換掉 `images/` 下的圖片，不要用預設的怪三角形....
+正確的在```updating```函數判斷雙人模式輸贏
+```cpp
+void Game::updating() {
+    // player dies?
+    // TODO: 判斷雙人模式下的輸贏
+    if (health->getHealth() <= 0 || player->y() >= CANVAS_HEIGHT) {
+        reset();
+        ShowMsg("GG!");
+        return;
+    }
+    // player2...
+```
 
+調整2P Health顯示的位置移動到1P的左邊
+```cpp
+if (player_num==2) {
+     //TODO: 調整2P Health顯示的位置到1P的左邊
+     health2 = new Health(0,HEALTH_TEXT_Y+10);
+     scene->addItem(health2);
+ }
+```
+
+設定一張自己的圖片給2P，此外，還要替換掉 `images/` 下的圖片，不要用預設的怪三角形....
+```cpp
+//TODO: 設定一張自己的圖片給2P
+ if (player_num==2) {
+     player2 = new Player(0,"images/player2.png");
+     scene->addItem(player2);
+ }
+```
 ### Part 3: 自創階梯 (15 %)
 
 請修改 `Stair.cpp` 與 `Stair.h` ，嘗試製造一個有特殊效果的階梯，效果不限，歡迎自由發揮
