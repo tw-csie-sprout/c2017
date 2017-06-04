@@ -12,28 +12,29 @@ void UpperSpike::takeEffect() {
 
 完成 `Stair.cpp` 中的各個階梯 effect 函數
 ```c++
-void Stair::normalStairEffect() {
+void Stair::normalStairEffect(Player *player,Health *health) {
   // 正常的stair，若血量不足 12，需要回覆一點血量
 }
 
-void Stair::spikeStairEffect() {
+void Stair::spikeStairEffect(Player *player,Health *health) {
   // 有尖刺的 stair，扣減血量 5 點，扣到負數也沒關係
 }
 
-void Stair::leftRollStairEffect() {
+void Stair::leftRollStairEffect(Player *player,Health *health) {
   // 左捲的stair，若血量不足 12，需要回覆一點血量，並讓角色向左移動
 }
 
-void Stair::rightRollStairEffect() {
-  // 右捲的stair，若血量不足 12，需要回覆一點血量，並讓角色向左移動
+void Stair::rightRollStairEffect(Player *player,Health *health) {
+  // 右捲的stair，若血量不足 12，需要回覆一點血量，並讓角色向右移動
 }
+
 ```
 
 此外，還要替換掉 `images/` 下的圖片，確保這四種階梯的圖片正常
 
 ### Part 2: 2P 模式 (30 %)
 
-正確的在```updating```函數判斷雙人模式輸贏
+在遊戲中按下鍵盤左側的 `2` 可切換雙人模式，請正確的在 `updating` 函數判斷雙人模式輸贏
 ```cpp
 void Game::updating() {
     // player dies?
@@ -67,6 +68,12 @@ if (player_num==2) {
 
 請修改 `Stair.cpp` 與 `Stair.h` ，嘗試製造一個有特殊效果的階梯，效果不限，歡迎自由發揮
 **注意：不能修改到 Part 1 的階梯功能，否則 Part 1 不予計分**
+
+1. 先在 `Stair.h` 中的 StairType 中增加自己的 stair 名子，記得要加逗號
+2. 同一個檔案中往下找，會有很多 StairEffect 的函數，請把你的函數名稱加在下面
+3. 在 `Stair.cpp` 的 `takeEffect()` 函數中，增加你的 case，記得要補上 `break;`
+4. 同一個檔案中的 `initPixmap()`，增加你的 case 並寫好圖片檔案名稱(不能有中文)，記得要補上 `break;`
+5. 在 `Stair.cpp` 最底下一排 StairEffect 函數，實做你自己的階梯效果，語法可以參考其他的函數
 
 ### Part 4: 自創新功能 (25 %)
 
