@@ -7,6 +7,8 @@ NS-SHAFT in Qt 5.8
 
 ## 作業檔案
 
+### 6/9 更新：修正[圖片無法顯示](https://www.facebook.com/groups/twsprout17c/permalink/1906659566276469/)的問題
+
 點[這裡](https://drive.google.com/open?id=0B_Qu9g2Wq4PbUTdQTkpQcDBOY0k)下載，進去後點網頁右上角的箭頭，以下載這次作業用 ZIP 壓縮的專案檔
 
 ## 問題
