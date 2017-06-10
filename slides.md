@@ -145,6 +145,12 @@
 |Data Structure| [Data Structure][taipei-data-structure] |                                     |
 |Algorithm| [Algorithm][taipei-algorithm]  |                                     |
 
-[hsinchu-template-STL]: https://drive.google.com/open?id=0B0sr_F32IYxLa1lOaE9xaG52emc
-[taipei-data-structure]:https://goo.gl/5lvuIw
-[taipei-algorithm]:https://goo.gl/tzqIv8
+
+### 第十五週投影片 05/27
+
+| 主題             | 北區                           | 竹區                         |
+| ------------ | ---------------------------- | ----------------------------- |
+|標頭檔         | |[template & STL] |
+|遞迴(河內塔)| [recursion2][taipei-recurion2] |                                     |  
+
+[recursion2]:https://hackmd.io/p/Sy_e04_Mb#/
