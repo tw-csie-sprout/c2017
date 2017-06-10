@@ -151,9 +151,10 @@
 
 ### 第十五週投影片 05/27
 
-| 主題             | 北區                           | 竹區                         |
-| ------------ | ---------------------------- | ----------------------------- |
-|標頭檔         | | |
-|遞迴(河內塔)| [recursion2][taipei-recurion2] |                                     |  
+| 主題         | 北區                           | 竹區                          |
+| ------------ | ------------------------------ | ----------------------------- |
+|標頭檔        | [Header Files][taipei-header]  | |
+|遞迴(河內塔)  | [recursion2][taipei-recurion2] | |
 
+[taipei-header]: https://drive.google.com/open?id=0B153He1E1uxMLVZjSFVEQ3BMdTg
 [taipei-recurion2]: https://hackmd.io/p/Sy_e04_Mb#/
