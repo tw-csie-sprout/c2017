@@ -15,6 +15,7 @@
 | 05/13 |  12  |  | [425 - 給開司一份薯片][]、[385 - Winston 竟然發廢文][]  |      |              |
 | 05/20 |  13  | [153 - 文字轉轉轉][]  | [170 - doubly linked list][]、[250 - Linked-List][]、[1415 - 排隊問題][] |      | |
 | 05/27 |  14  |  | [370 - 園遊會][] |      | |
+| 06/10 |  15  |  | [152 - 幸運大樂透][] |      | |
 
 
 [666 - 你的名子]: http://neoj.sprout.tw/problem/666/
@@ -44,6 +45,7 @@
 [1415 - 排隊問題]:http://neoj.sprout.tw/problem/1415/
 [153 - 文字轉轉轉]:https://neoj.sprout.tw/problem/153/
 [370 - 園遊會]:https://neoj.sprout.tw/problem/370/
+[152 - 幸運大樂透]:https://neoj.sprout.tw/problem/152/
 
 [week01]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbWUxDV2ZIcWlFVzA
 [week02]: https://drive.google.com/open?id=0B8Sm4iboInAZVkF5ZkprWkdBejA
