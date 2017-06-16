@@ -154,7 +154,8 @@
 | 主題         | 北區                           | 竹區                          |
 | ------------ | ------------------------------ | ----------------------------- |
 |標頭檔        | [Header Files][taipei-header]  | |
-|遞迴(河內塔)  | [recursion2][taipei-recurion2] | |
+|遞迴(河內塔)  | [recursion2][taipei-recurion2] | [recursion2][jinkela-recursion] |
 
 [taipei-header]: https://drive.google.com/open?id=0B153He1E1uxMLVZjSFVEQ3BMdTg
 [taipei-recurion2]: https://hackmd.io/p/Sy_e04_Mb#/
+[jinkela-recursion]: https://drive.google.com/open?id=0B6NYSy8f6mQLdXpEdmwtTW10MjQ
