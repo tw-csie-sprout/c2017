@@ -5,7 +5,7 @@
 完成 `UpperSpike.cpp` 中的 `takeEffect()` 函數，該函數需要扣減玩家五點血量
 
 ```cpp
-void UpperSpike::takeEffect() {
+void UpperSpike::takeEffect(Player *player) {
    // 上放的尖刺，扣減血量 5 點，扣到負數也沒關係
 }
 ```
