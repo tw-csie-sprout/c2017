@@ -159,3 +159,11 @@
 [taipei-header]: https://drive.google.com/open?id=0B153He1E1uxMLVZjSFVEQ3BMdTg
 [taipei-recurion2]: https://hackmd.io/p/Sy_e04_Mb#/
 [jinkela-recursion]: https://drive.google.com/open?id=0B6NYSy8f6mQLdXpEdmwtTW10MjQ
+
+### 第十六週投影片 06/17
+
+| 主題         | 北區                           | 竹區                          |
+| ------------ | ------------------------------ | ----------------------------- |
+|大回顧        | [overview][taipei-overview]  | |
+
+[taipei-overview]: https://drive.google.com/open?id=0B_Qu9g2Wq4PbTm5uWkNYWHJDUk0
